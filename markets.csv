@@ -1,4 +1,4 @@
-CountryName,MarketCode
+﻿CountryName,MarketCode
 Puerto Rico,PR
 Palestinian Territories,PS
 Portugal,PT
@@ -122,7 +122,7 @@ British Virgin Islands,VG
 US Virgin Islands,VI
 Vietnam,VN
 Vanuatu,VU
-Finland,FI
+Suomi,FI
 Fiji,FJ
 Falkland Islands,FK
 Micronesia,FM
@@ -151,7 +151,7 @@ Guyana,GY
 Kosovo,XK
 Hong Kong,HK
 Honduras,HN
-Hrvatska,HR
+Croatia,HR
 Haiti,HT
 Yemen,YE
 Hungary,HU
@@ -232,6 +232,5 @@ French Polynesia,PF
 Papua New Guinea,PG
 Philippines,PH
 Pakistan,PK
-Polska,PL
 St. Pierre and Miquelon,PM
-        
+Poland,PL
