@@ -1,0 +1,3973 @@
+---------------------------------------------------------------------------
+total_airports.csv
+---------------------------------------------------------------------------
+country,skyId,entityId,localizedName,entityType
+Puerto Rico,PR,29475085,Puerto Rico,COUNTRY
+Puerto Rico,SJUA,27546347,San Juan,CITY
+Puerto Rico,SJU,95673803,San Juan Luis Munoz Marin,AIRPORT
+Puerto Rico,SIG,129055614,San Juan Isla Grande,AIRPORT
+Puerto Rico,BQN,128668345,Aguadilla,AIRPORT
+Puerto Rico,PSE,95673804,Ponce,AIRPORT
+Puerto Rico,VQS,128669120,Vieques,AIRPORT
+Puerto Rico,MAZ,128667941,Mayaguez,AIRPORT
+Palestinian Territories,PS,29475163,Palestinian Territory,COUNTRY
+Palestinian Territories,ABV,128668198,Abuja,AIRPORT
+Palestinian Territories,DRW,95674234,Darwin,AIRPORT
+Palestinian Territories,CBR,95673866,Canberra,AIRPORT
+Palestinian Territories,YZF,128667599,Yellowknife,AIRPORT
+Palestinian Territories,ASP,104120402,Alice Springs,AIRPORT
+Palestinian Territories,AYQ,104120387,Ayers Rock / Connellan,AIRPORT
+Palestinian Territories,GOV,128668207,Gove,AIRPORT
+Portugal,PT,29475349,Portugal,COUNTRY
+Portugal,LIS,95565055,Lisbon,AIRPORT
+Portugal,OPO,95566290,Porto,AIRPORT
+Portugal,FAO,95673306,Faro,AIRPORT
+Portugal,FNC,95674222,Madeira,AIRPORT
+Portugal,PDL,128667893,Ponta Delgada,AIRPORT
+Portugal,HOR,128667820,Horta,AIRPORT
+Portugal,GRW,129055587,Graciosa Island,AIRPORT
+Palau,PW,29475164,Palau,COUNTRY
+Palau,ROR,104120409,Koror,AIRPORT
+Palau,PLW,95673923,Palu Mutiara,AIRPORT
+Paraguay,ASU,95673453,Asuncion,AIRPORT
+Paraguay,PY,29475403,Paraguay,COUNTRY
+Paraguay,AGT,128668214,Ciudad del Este,AIRPORT
+Qatar,QA,29475214,Qatar,COUNTRY
+Qatar,DOH,95673852,Hamad International,AIRPORT
+Principat d'Andorra,ST,29475362,Sao Tome and Principe,COUNTRY
+Principat d'Andorra,PCP,129056056,Principle Island,AIRPORT
+United Arab Emirates,AE,29475216,United Arab Emirates,COUNTRY
+United Arab Emirates,DXBA,27540839,Dubai,CITY
+United Arab Emirates,DXB,95673506,Dubai,AIRPORT
+United Arab Emirates,DWC,128668423,Dubai Al Maktoum International,AIRPORT
+United Arab Emirates,SHJ,95673508,Sharjah,AIRPORT
+United Arab Emirates,AUH,95673509,Zayed International,AIRPORT
+United Arab Emirates,FJR,129051942,Al-Fujairah,AIRPORT
+United Arab Emirates,AAN,128667537,Al Ain,AIRPORT
+Afghanistan,AF,29475275,Afghanistan,COUNTRY
+Afghanistan,KBL,128668558,Kabul,AIRPORT
+Afghanistan,MZR,129052804,Mazar-I-Sharif,AIRPORT
+Afghanistan,KDH,128667980,Kandahar,AIRPORT
+Afghanistan,HEA,128668620,Herat,AIRPORT
+Afghanistan,KHT,129055822,Khost,AIRPORT
+Antigua and Barbuda,AG,29475413,Antigua and Barbuda,COUNTRY
+Antigua and Barbuda,ANU,95674321,Saint John's,AIRPORT
+Antigua and Barbuda,BBQ,222980953,Barbuda Burton-Nibbs International,AIRPORT
+Albania,AL,29475259,Albania,COUNTRY
+Albania,TIA,128669056,Tirana,AIRPORT
+Albania,ALB,95674229,Albany,AIRPORT
+Albania,ALH,128668244,Albany,AIRPORT
+Albania,ABY,95674281,Albany Dougherty County,AIRPORT
+Albania,YFA,128667653,Fort Albany,AIRPORT
+Armenia,AM,29475202,Armenia,COUNTRY
+Armenia,AXM,95673791,Armenia,AIRPORT
+Armenia,EVN,95673518,Zvartnots International,AIRPORT
+Armenia,LWN,129053642,Gyoumri,AIRPORT
+Angola,AO,29475397,Angola,COUNTRY
+Angola,LADA,27543961,Luanda,CITY
+Angola,LAD,128667237,Luanda,AIRPORT
+Angola,NBJ,222500045,Dr. Antonio Agostinho Neto,AIRPORT
+Angola,CBT,128668363,Catumbela,AIRPORT
+Angola,SDD,128667189,Lubango,AIRPORT
+Angola,MSZ,128667871,Namibe,AIRPORT
+Angola,VHC,128668503,Saurimo,AIRPORT
+Antarctica,AQ,29475175,Antarctica,COUNTRY
+Argentina,AR,29475428,Argentina,COUNTRY
+Argentina,BUEA,27536465,Buenos Aires,CITY
+Argentina,EZE,95673318,Buenos Aires Ministro Pistarini,AIRPORT
+Argentina,AEP,128668190,Buenos Aires Jorge Newbery,AIRPORT
+Argentina,COR,95673464,Cordoba,AIRPORT
+Argentina,EQS,128668437,Esquel,AIRPORT
+Argentina,VDM,128669109,Viedma,AIRPORT
+Argentina,REL,128667393,Trelew,AIRPORT
+American Samoa,AS,29475098,American Samoa,COUNTRY
+American Samoa,PPG,128667399,Pago Pago,AIRPORT
+American Samoa,FTI,129054602,Fitiuta,AIRPORT
+American Samoa,OFU,129057495,Ofu,AIRPORT
+Reunion,RUN,99539656,Saint-Denis,AIRPORT
+Reunion,RE,29475165,Reunion,COUNTRY
+Australia,AU,29475336,Australia,COUNTRY
+Australia,SYD,128667058,Sydney,AIRPORT
+Australia,MELA,27544894,Melbourne,CITY
+Australia,MEL,95673364,Melbourne Tullamarine,AIRPORT
+Australia,AVV,128667535,Melbourne Avalon,AIRPORT
+Australia,PER,128668924,Perth,AIRPORT
+Australia,HTI,95674280,Hamilton Island,AIRPORT
+Australia,EPR,128668155,Esperance,AIRPORT
+Aruba,AW,29475099,Aruba,COUNTRY
+Aruba,AUA,95674147,Oranjestad,AIRPORT
+Aruba,AMH,128668246,Arba Mintch,AIRPORT
+Azerbaijan,AZ,29475238,Azerbaijan,COUNTRY
+Azerbaijan,GYD,95673513,Baku Heydar Aliyev International,AIRPORT
+Azerbaijan,GNJ,205558438,Ganja International,AIRPORT
+Azerbaijan,NAJ,128668868,Nakhichevan,AIRPORT
+Azerbaijan,GBB,128667512,Qabala,AIRPORT
+Azerbaijan,LLK,128667233,Lankaran International,AIRPORT
+Azerbaijan,TBZ,128669044,Tabriz,AIRPORT
+Azerbaijan,OMH,128667850,Urmieh,AIRPORT
+România,RO,29475261,Romania,COUNTRY
+România,BUCH,27545262,Bucharest,CITY
+România,OTP,95673426,Bucharest Otopeni,AIRPORT
+România,BBU,129054661,Bucharest Baneasa,AIRPORT
+România,CLJ,95673885,Cluj-Napoca,AIRPORT
+România,IAS,95673658,Iasi,AIRPORT
+România,TSR,95673890,Timisoara,AIRPORT
+România,SCV,95673884,Suceava Salcea,AIRPORT
+Bosnia and Herzegovina,SJJ,95673641,Sarajevo International,AIRPORT
+Bosnia and Herzegovina,BA,29475396,Bosnia and Herzegovina,COUNTRY
+Bosnia and Herzegovina,OMO,129054150,Mostar,AIRPORT
+Bosnia and Herzegovina,TZL,128667366,Tuzla,AIRPORT
+Bosnia and Herzegovina,BNX,128668291,Banja Luka,AIRPORT
+Barbados,BB,29475399,Barbados,COUNTRY
+Barbados,BGI,104120254,Bridgetown,AIRPORT
+Serbia,RS,29475438,Serbia,COUNTRY
+Serbia,BEG,95673488,Belgrade Nikola Tesla,AIRPORT
+Serbia,INI,128668650,Nis,AIRPORT
+Serbia,KVO,203999592,Morava,AIRPORT
+Bangladesh,BD,29475278,Bangladesh,COUNTRY
+Bangladesh,DAC,128668399,Hazrat Shahjalal International Airport,AIRPORT
+Bangladesh,ZYL,129053060,Sylhet,AIRPORT
+Bangladesh,CGP,128667293,Chittagong,AIRPORT
+Bangladesh,CXB,128668342,Cox's Bazar,AIRPORT
+Bangladesh,RJH,128668978,Rajshahi,AIRPORT
+Bangladesh,SPD,128667061,Saidpur,AIRPORT
+Bangladesh,JSR,128667808,Jessore,AIRPORT
+Burkina Faso,BF,29475355,Burkina Faso,COUNTRY
+Burkina Faso,OUA,128667844,Ouagadougou,AIRPORT
+Burkina Faso,BOY,128668298,Bobo Dioulasso,AIRPORT
+Rwanda,RW,29475176,Rwanda,COUNTRY
+Rwanda,KGL,95674269,Kigali,AIRPORT
+Rwanda,KME,128668742,Kamembe,AIRPORT
+Bahrain,BAH,95673610,Bahrain,AIRPORT
+Bahrain,BH,29475215,Bahrain,COUNTRY
+Burundi,BI,29475231,Burundi,COUNTRY
+Burundi,BJM,128668114,Bujumbura,AIRPORT
+Benin,BJ,29475359,Benin,COUNTRY
+Benin,COO,128668386,Cotonou,AIRPORT
+Benin,BNI,128668029,Benin City,AIRPORT
+Benin,BEM,129056419,Beni Mellal,AIRPORT
+Benin,BNC,129052751,Beni,AIRPORT
+Benin,SMT,139174154,Adolino Bedin Regional,AIRPORT
+Saint Barthelemy,BL,29475100,Saint Barthelemy,COUNTRY
+Saint Barthelemy,SBH,129055540,Gustaf III,AIRPORT
+Saint Barthelemy,MBJ,99539667,Montego Bay,AIRPORT
+Saint Barthelemy,SFG,128667743,Grand Case-Espérance,AIRPORT
+Saint Barthelemy,KIN,99539636,Kingston Norman Manley,AIRPORT
+Saint Barthelemy,STTA,222576420,Saint Thomas,CITY
+Saint Barthelemy,STT,99539652,Cyril E. King,AIRPORT
+Saint Barthelemy,SPB,129057537,Charlotte Amalie Harbor SPB,AIRPORT
+Bermuda,BM,29475086,Bermuda,COUNTRY
+Bermuda,BDA,104120372,L.F. Wade International,AIRPORT
+Brunei,BN,29475327,Brunei,COUNTRY
+Brunei,BWN,99539670,Bandar Seri Begawan,AIRPORT
+Bolivia,BO,29475430,Bolivia,COUNTRY
+Bolivia,VVI,128667539,Santa Cruz Viru Viru,AIRPORT
+Bolivia,LPB,95673589,La Paz,AIRPORT
+Bolivia,CBB,95673568,Cochabamba,AIRPORT
+Bolivia,UYU,128667719,Uyuni,AIRPORT
+Bolivia,SRE,128667182,Alcantarí International,AIRPORT
+Bolivia,RBQ,128667464,Rurrenabaque,AIRPORT
+Bolivia,GYA,128668614,Guayaramerin,AIRPORT
+Saudi Arabia,SA,29475192,Saudi Arabia,COUNTRY
+Saudi Arabia,JED,95673390,Jeddah,AIRPORT
+Saudi Arabia,RUH,95673362,Riyadh,AIRPORT
+Saudi Arabia,DMM,128668415,Dammam,AIRPORT
+Saudi Arabia,MED,128668235,Madinah,AIRPORT
+Saudi Arabia,TUU,128669085,Tabuk,AIRPORT
+Saudi Arabia,AHB,128668215,Abha,AIRPORT
+Saudi Arabia,HOF,128668075,Alahsa,AIRPORT
+Caribbean Netherlands,BQ,29475135,Caribbean Netherlands,COUNTRY
+Caribbean Netherlands,BON,128667529,Flamingo International,AIRPORT
+Caribbean Netherlands,SAB,104120318,Saba Island,AIRPORT
+Caribbean Netherlands,EUX,104120317,F.D. Roosevelt,AIRPORT
+Solomon Islands,SB,29475338,Solomon Islands,COUNTRY
+Solomon Islands,GZO,128667267,Gizo,AIRPORT
+Solomon Islands,HIR,99539673,Honiara,AIRPORT
+Solomon Islands,LLM,216767147,Lomlom,AIRPORT
+Solomon Islands,PRS,129053542,Parasi,AIRPORT
+Solomon Islands,MUA,128667925,Munda,AIRPORT
+Solomon Islands,FRE,128667959,Fera Island,AIRPORT
+Solomon Islands,RNL,128667392,Tigoa,AIRPORT
+Brasil,BR,29475405,Brazil,COUNTRY
+Brasil,BSB,95673410,Brasilia,AIRPORT
+Seychelles,SEZ,104120413,Seychelles,AIRPORT
+Seychelles,SC,29475209,Seychelles,COUNTRY
+Seychelles,PRI,128667398,Praslin Island,AIRPORT
+Bahamas,BS,29475409,Bahamas,COUNTRY
+Bahamas,NAS,99539649,Nassau International,AIRPORT
+Bahamas,FPO,104120398,Freeport,AIRPORT
+Bahamas,GGT,128668325,George Town,AIRPORT
+Bahamas,ELH,128668008,North Eleuthera,AIRPORT
+Bahamas,BIMA,222576413,Bimini,CITY
+Bahamas,SAQ,129052795,San Andros,AIRPORT
+Bahamas,MHH,128668832,Marsh Harbour,AIRPORT
+Sudan,SD,29475228,Sudan,COUNTRY
+Sudan,PZU,128667196,Port Sudan,AIRPORT
+Sudan,JUB,128668713,Juba,AIRPORT
+Sudan,SS,99540794,South Sudan,COUNTRY
+Sudan,DOG,129052772,Dongola,AIRPORT
+Sudan,KSL,129057105,Kassala,AIRPORT
+Sudan,UYL,128668505,Nyala,AIRPORT
+Sudan,WHF,129053245,Wadi Halfa,AIRPORT
+Bhutan,BT,29475283,Bhutan,COUNTRY
+Bhutan,PBH,104120410,Paro,AIRPORT
+Bhutan,BUT,154088926,Bathpalathang,AIRPORT
+Bhutan,YON,129057552,Trashigang,AIRPORT
+Bhutan,GLU,152712060,Gelephu,AIRPORT
+Singapore,SINS,27546111,Singapore,CITY
+Singapore,SIN,95673375,Singapore Changi,AIRPORT
+Singapore,XSP,152712083,Seletar,AIRPORT
+Singapore,SG,29475332,Singapore,COUNTRY
+Botswana,BW,29475269,Botswana,COUNTRY
+Botswana,GBE,128668591,Gaborone,AIRPORT
+Botswana,MUB,104120265,Maun,AIRPORT
+Botswana,BBK,128668270,Kasane,AIRPORT
+Botswana,FRW,128668328,Francistown,AIRPORT
+St. Helena,HLE,135337736,St. Helena,AIRPORT
+St. Helena,SH,29475096,St. Helena,COUNTRY
+Slovenia,SI,29475394,Slovenia,COUNTRY
+Slovenia,LJU,95673950,Ljubljana,AIRPORT
+Belize,BZEA,27539666,Belize City,CITY
+Belize,BZE,99539658,Belize City Philip S.W.Goldson Int,AIRPORT
+Belize,TZA,129052792,Belize City Municipal,AIRPORT
+Belize,BZ,29475417,Belize,COUNTRY
+Belize,CUK,129055530,Caye Caulker,AIRPORT
+Belize,SPR,129055368,San Pedro,AIRPORT
+Belize,PLJ,129052729,Placencia,AIRPORT
+Belize,INB,129052154,Independence,AIRPORT
+Sierra Leone,SL,29475361,Sierra Leone,COUNTRY
+Sierra Leone,FNA,99539628,Freetown Lungi International,AIRPORT
+Senegal,SN,29475346,Senegal,COUNTRY
+Senegal,DSS,160928619,Blaise Diagne International,AIRPORT
+Senegal,CSK,129055672,Cap Skirring,AIRPORT
+Senegal,XLS,129051930,St Louis,AIRPORT
+Somalia,SO,29475180,Somalia,COUNTRY
+Somalia,MGQ,128667782,Mogadishu,AIRPORT
+Somalia,HGA,129053221,Hargeisa,AIRPORT
+Somalia,GGR,129057174,Garowe,AIRPORT
+Somalia,BSA,128668346,Bossaso,AIRPORT
+Somalia,BIB,128668031,Baidoa,AIRPORT
+Somalia,KMU,128668552,Kismayu,AIRPORT
+Somalia,GLK,128668600,Galcaio,AIRPORT
+Canada,CA,29475436,Canada,COUNTRY
+Canada,YTOA,27536640,Toronto,CITY
+Canada,YYZ,95673353,Toronto Pearson International,AIRPORT
+Canada,YKF,128669175,Kitchener / Waterloo,AIRPORT
+Canada,YHM,95673357,Hamilton,AIRPORT
+Canada,YTZ,95673352,Toronto Island,AIRPORT
+Canada,YVRA,27537411,Vancouver,CITY
+Canada,YXU,95673743,London,AIRPORT
+Suriname,SR,29475402,Suriname,COUNTRY
+Suriname,PBMA,27545241,Paramaribo,CITY
+Suriname,PBM,128668919,Paramaribo Zanderij,AIRPORT
+Suriname,ORG,129056065,Paramaribo Zorg en Hoop,AIRPORT
+Suriname,DRJ,129053145,Drietabbetje,AIRPORT
+Suriname,SMZ,129054228,Stoelmans Eiland,AIRPORT
+DR Congo,CD,29475205,DR Congo,COUNTRY
+DR Congo,FIH,104120422,Kinshasa N'Djili,AIRPORT
+DR Congo,FBM,128668575,Lubumbashi,AIRPORT
+DR Congo,GOM,129052741,Goma,AIRPORT
+DR Congo,KWZ,129052634,Kolwezi,AIRPORT
+DR Congo,KND,129055512,Kindu,AIRPORT
+DR Congo,BUX,129053190,Bunia,AIRPORT
+Sao Tome and Principe,TMS,128667698,Sao Tome Is,AIRPORT
+Central African Republic,CF,29475208,Central African Republic,COUNTRY
+Central African Republic,BGF,128668462,Bangui,AIRPORT
+El Salvador,SAL,95673728,San Salvador,AIRPORT
+El Salvador,SV,29475418,El Salvador,COUNTRY
+Congo,CGH,95673330,Sao Paulo Congonhas,AIRPORT
+Congo,CG,29475348,Republic of the Congo,COUNTRY
+Congo,TZN,129055552,Congo Town,AIRPORT
+Congo,BZV,104120423,Brazzaville,AIRPORT
+Congo,PNR,128667697,Pointe Noire,AIRPORT
+St Maarten,SXM,104120314,St Maarten,AIRPORT
+St Maarten,SX,29475155,Sint Maarten,COUNTRY
+Ivory Coast,CI,29475351,Ivory Coast,COUNTRY
+Ivory Coast,ABJ,99539624,Abidjan,AIRPORT
+Ivory Coast,MJC,129052148,Man,AIRPORT
+Ivory Coast,HGO,129055645,Korhogo,AIRPORT
+Ivory Coast,BYK,129054658,Bouake,AIRPORT
+Ivory Coast,SPY,129053044,San Pedro,AIRPORT
+Ivory Coast,KEO,129052651,Odienne,AIRPORT
+Syria,SY,29475200,Syria,COUNTRY
+Syria,DAM,95673443,Damascus,AIRPORT
+Syria,ALP,128668123,Aleppo,AIRPORT
+Syria,KAC,128668715,Kameshli,AIRPORT
+Cook Islands,CK,29475101,Cook Islands,COUNTRY
+Cook Islands,RAR,104120412,Rarotonga International,AIRPORT
+Cook Islands,AIT,128668185,Aitutaki,AIRPORT
+Cook Islands,MGS,128668831,Auau,AIRPORT
+Cook Islands,AIU,128668218,Enua,AIRPORT
+Cook Islands,MUK,128667099,Mauke Island,AIRPORT
+Cook Islands,MOI,128668844,Nukuroa,AIRPORT
+Cook Islands,PYE,129057276,Penrhyn Island,AIRPORT
+Chile,CL,29475429,Chile,COUNTRY
+Chile,SCL,104120223,Santiago Arturo Merino Benitez,AIRPORT
+Chile,PUQ,104120401,Punta Arenas,AIRPORT
+Chile,CJC,128668165,Calama,AIRPORT
+Chile,PNT,129057681,Puerto Natales,AIRPORT
+Chile,IPC,128668656,Easter Island,AIRPORT
+Chile,PMC,95674093,Puerto Montt,AIRPORT
+Chile,ARI,95674052,Arica,AIRPORT
+Cameroon,CM,29475345,Cameroon,COUNTRY
+Cameroon,DLA,99539629,Douala,AIRPORT
+Cameroon,NSI,99539631,Yaounde Nsimalen,AIRPORT
+Cameroon,GOU,129052702,Garoua,AIRPORT
+Cameroon,MVR,129057952,Maroua,AIRPORT
+Cameroon,BFX,129056799,Bafoussam,AIRPORT
+Cameroon,NGE,129053805,Ngaoundere,AIRPORT
+China,CN,29475326,China,COUNTRY
+China,HKG,128668132,Hong Kong Intl,AIRPORT
+China,CSHA,27546079,Shanghai,CITY
+China,PVG,128667077,Shanghai Pudong,AIRPORT
+China,SHA,128669004,Shanghai Hongqiao,AIRPORT
+China,CAN,128668169,Guangzhou,AIRPORT
+China,BJSA,27545090,Beijing,CITY
+China,CTU,128668393,Chengdu Shuangliu International,AIRPORT
+Colombia,CO,29475425,Colombia,COUNTRY
+Colombia,BOG,95673344,Bogota,AIRPORT
+Colombia,MDEA,27540944,Medellin,CITY
+Colombia,MDE,95673419,José María Córdova International,AIRPORT
+Colombia,EOH,95673418,Medellin Enrique Olaya Herrera,AIRPORT
+Colombia,CTG,95673470,Cartagena,AIRPORT
+Colombia,CLO,95673404,Cali,AIRPORT
+Colombia,VVC,128669123,Villavicencio,AIRPORT
+Costa Rica,CR,29475422,Costa Rica,COUNTRY
+Costa Rica,SJO,95673864,San Jose Juan Santamaria,AIRPORT
+Costa Rica,LIR,128668788,Liberia,AIRPORT
+Costa Rica,TNO,128667449,Tamarindo,AIRPORT
+Costa Rica,ACO,218378907,Cobano,AIRPORT
+Costa Rica,GLF,128667270,Golfito,AIRPORT
+Costa Rica,TTQ,128667635,Tortuquero,AIRPORT
+Costa Rica,PMZ,128668939,Palmar,AIRPORT
+Turks and Caicos Islands,TC,29475092,Turks and Caicos Islands,COUNTRY
+Turks and Caicos Islands,PLS,128667699,Providenciales International,AIRPORT
+Turks and Caicos Islands,GDT,128668326,Grand Turk Is,AIRPORT
+Turks and Caicos Islands,NCA,129054318,North Caicos,AIRPORT
+Turks and Caicos Islands,XSC,128667437,South Caicos International,AIRPORT
+Turks and Caicos Islands,SLX,129055538,Salt Cay,AIRPORT
+Chad,TD,29475365,Chad,COUNTRY
+Chad,NDJ,99539638,N'Djamena,AIRPORT
+Chad,CDR,128668023,Chadron,AIRPORT
+Chad,ZBR,128667337,Chah-Bahar,AIRPORT
+Cuba,CU,29475408,Cuba,COUNTRY
+Cuba,HAV,99539626,Havana,AIRPORT
+Cuba,SCU,128668993,Santiago,AIRPORT
+Cuba,VRA,99539627,Varadero,AIRPORT
+Cuba,HOG,128668635,Holguin,AIRPORT
+Cuba,SNU,128667062,Santa Clara,AIRPORT
+Cuba,CCC,128668364,Jardines del Rey,AIRPORT
+Cuba,CFG,128668106,Cienfuegos,AIRPORT
+Cape Verde,CV,29475400,Cape Verde,COUNTRY
+Cape Verde,RAI,99539660,Praia,AIRPORT
+Cape Verde,SID,104120371,Amilcar Cabral International,AIRPORT
+Cape Verde,VXE,128667441,Sao Vicente,AIRPORT
+Cape Verde,BVC,128667527,Boa Vista Island Rabil,AIRPORT
+Cape Verde,MMO,128667103,Vila Do Maio,AIRPORT
+Cape Verde,SFL,128669001,Sao Filipe,AIRPORT
+Cape Verde,SNE,128669018,Preguica,AIRPORT
+Togo,LFW,104120235,Lome,AIRPORT
+Togo,TG,29475356,Togo,COUNTRY
+Togo,BOC,128668293,Bocas Del Toro,AIRPORT
+Curacao,CUR,99539651,Curacao,AIRPORT
+Curacao,CW,29475138,Curacao,COUNTRY
+Christmas Island,XCH,128667710,Christmas Island,AIRPORT
+Christmas Island,CX,29475139,Christmas Island,COUNTRY
+Christmas Island,CXI,128668395,Cassidy International,AIRPORT
+Tajikistan,TJ,29475280,Tajikistan,COUNTRY
+Tajikistan,DYU,95673716,Dushanbe,AIRPORT
+Tajikistan,LBD,128667967,Khudzhand,AIRPORT
+Tajikistan,TJU,128669060,Kulyab,AIRPORT
+Tajikistan,KQT,129054156,Kurgon-Tyube,AIRPORT
+East Timor,EMA,104120232,East Midlands,AIRPORT
+East Timor,BTR,95673995,Baton Rouge Ryan,AIRPORT
+East Timor,SUB,95673405,Surabaya,AIRPORT
+East Timor,DIL,128668448,Dili,AIRPORT
+East Timor,TL,29475333,Timor-Leste,COUNTRY
+East Timor,LBJ,128667793,Komodo,AIRPORT
+East Timor,BPN,95673793,Balikpapan,AIRPORT
+East Timor,RJA,128667748,Rajahmundry,AIRPORT
+Turkmenistan,TM,29475279,Turkmenistan,COUNTRY
+Turkmenistan,ASB,95673625,Ashgabat,AIRPORT
+Turkmenistan,KRW,129053617,Turkmenbashi,AIRPORT
+Turkmenistan,CRZ,129054876,Turkmenabad,AIRPORT
+Turkmenistan,MYP,129055092,Mary,AIRPORT
+Turkmenistan,KEA,216766841,Kerki,AIRPORT
+Turkmenistan,TAZ,129056469,Dashoguz,AIRPORT
+Tunisia,TN,29475368,Tunisia,COUNTRY
+Tunisia,TUN,95673642,Tunis Carthage,AIRPORT
+Tunisia,DJE,128668409,Djerba–Zarzis,AIRPORT
+Tunisia,MIR,95673932,Monastir,AIRPORT
+Tunisia,NBE,128668870,Enfidha,AIRPORT
+Tunisia,SFA,128668998,Sfax El Maou,AIRPORT
+Tunisia,TOE,128667638,Tozeur,AIRPORT
+Tunisia,TBJ,129051936,Tabarka,AIRPORT
+Tonga,TBU,128667451,Tongatapu Fua'amotu,AIRPORT
+Tonga,TO,29475434,Tonga,COUNTRY
+Tonga,VAV,129055536,Vava'u,AIRPORT
+Tonga,EUA,129053412,Eua,AIRPORT
+Tonga,NTT,129057501,Kuini Lavenia,AIRPORT
+Tonga,HPA,129055381,Lifuka,AIRPORT
+Tonga,TGT,129053283,Tanga,AIRPORT
+Tonga,YUS,128668061,Ba Tong,AIRPORT
+Türkiye,TR,29475221,Türkiye (Turkey),COUNTRY
+Türkiye,ISTA,27542903,Istanbul,CITY
+Türkiye,IST,95673323,Istanbul,AIRPORT
+Türkiye,SAW,95673324,Istanbul Sabiha,AIRPORT
+Türkiye,AYT,95673612,Antalya,AIRPORT
+Türkiye,ADB,95673399,Izmir,AIRPORT
+Türkiye,ESB,128668440,Ankara Esenboga,AIRPORT
+Türkiye,DLM,95673892,Dalaman,AIRPORT
+Trinidad and Tobago,TT,29475410,Trinidad and Tobago,COUNTRY
+Trinidad and Tobago,POS,104120358,Port Of Spain,AIRPORT
+Trinidad and Tobago,TAB,104120357,A. N. R. Robinson International,AIRPORT
+Tuvalu,TV,29475339,Tuvalu,COUNTRY
+Tuvalu,FUN,128668002,Funafuti,AIRPORT
+Taiwan,TW,29475323,Taiwan,COUNTRY
+Taiwan,TPET,27547236,Taipei,CITY
+Taiwan,TPE,128667054,Taipei Taiwan Taoyuan,AIRPORT
+Taiwan,TSA,104120388,Taipei Sung Shan,AIRPORT
+Taiwan,KHH,128667915,Kaohsiung,AIRPORT
+Taiwan,RMQ,128668534,Taichung,AIRPORT
+Taiwan,CYI,129055558,Chiayi,AIRPORT
+Taiwan,TNN,128669071,Tainan,AIRPORT
+Tanzania,TZ,29475199,Tanzania,COUNTRY
+Tanzania,ZNZ,104120224,Zanzibar,AIRPORT
+Tanzania,DAR,99539625,Dar Es Salaam,AIRPORT
+Tanzania,JRO,99539645,Kilimanjaro,AIRPORT
+Tanzania,ARK,128668467,Arusha,AIRPORT
+Tanzania,SEU,128667187,Seronera,AIRPORT
+Tanzania,MWZ,99539644,Mwanza,AIRPORT
+Tanzania,MBI,128668237,Mbeya,AIRPORT
+Dominica,DO,29475407,Dominican Republic,COUNTRY
+Dominica,DM,29475412,Dominica,COUNTRY
+Dominica,DOM,128668418,Dominica Melville Hall,AIRPORT
+Dominica,PUJ,95673339,Punta Cana,AIRPORT
+Dominica,SDQA,27543019,Santo Domingo,CITY
+Dominica,SDQ,95673336,Santo Domingo Las Americas,AIRPORT
+Dominica,JBQ,129055514,La Isabela International,AIRPORT
+Dominica,STI,95673703,Santiago,AIRPORT
+Uganda,UG,29475207,Uganda,COUNTRY
+Uganda,EBB,128667837,Entebbe,AIRPORT
+Uganda,KJJ,217809344,Kajjansi,AIRPORT
+Uganda,KSE,129053217,Kasese,AIRPORT
+Uganda,PAF,129052143,Pakuba,AIRPORT
+Uganda,KXO,216756569,Kisoro,AIRPORT
+Uganda,KHX,152712063,Kihihi,AIRPORT
+Uganda,MBQ,129057074,Mbarara,AIRPORT
+Algeria,DZ,29475372,Algeria,COUNTRY
+Algeria,ALG,95673422,Algiers,AIRPORT
+Algeria,ORN,128667207,Ben Bella,AIRPORT
+Algeria,CZL,128668143,Constantine,AIRPORT
+Algeria,BJA,128668175,Bejaia,AIRPORT
+Algeria,AAE,128667593,Annaba,AIRPORT
+Algeria,TLM,128667172,Tlemcen,AIRPORT
+Algeria,TGR,128667374,Touggourt,AIRPORT
+United Kingdom,UK,29475375,United Kingdom,COUNTRY
+United Kingdom,LOND,27544008,London,CITY
+United Kingdom,LHR,95565050,London Heathrow,AIRPORT
+United Kingdom,LGW,95565051,London Gatwick,AIRPORT
+United Kingdom,STN,95565052,London Stansted,AIRPORT
+United Kingdom,LTN,95565053,London Luton,AIRPORT
+United Kingdom,LCY,95565047,London City,AIRPORT
+United Kingdom,ABZ,95674056,Aberdeen,AIRPORT
+Ecuador,EC,29475424,Ecuador,COUNTRY
+Ecuador,UIO,95673467,Quito,AIRPORT
+Ecuador,GYE,95673424,Guayaquil,AIRPORT
+Ecuador,GPS,128668608,Seymour,AIRPORT
+Ecuador,SCY,128668530,San Cristobal,AIRPORT
+Ecuador,CUE,95673937,Cuenca,AIRPORT
+Ecuador,MEC,128668828,Manta,AIRPORT
+Ecuador,ETR,128667965,Santa Rosa,AIRPORT
+United States,US,29475437,United States,COUNTRY
+United States,NYCA,27537542,New York,CITY
+United States,JFK,95565058,New York John F. Kennedy,AIRPORT
+United States,EWR,95565059,New York Newark,AIRPORT
+United States,LAX,95673368,Los Angeles International,AIRPORT
+United States,PHL,95673446,Philadelphia International,AIRPORT
+United States,ORD,95673392,Chicago O'Hare International,AIRPORT
+United States,SCE,95674389,State College,AIRPORT
+Estonia,EE,29475233,Estonia,COUNTRY
+Estonia,TLL,128667052,Tallinn,AIRPORT
+Estonia,TAY,128668520,Tartu,AIRPORT
+Estonia,URE,129053068,Kuressaare,AIRPORT
+Estonia,KDL,129052889,Kardla,AIRPORT
+Egypt,EG,29475226,Egypt,COUNTRY
+Egypt,CAIR,27539681,Cairo,CITY
+Egypt,CAI,104120222,Cairo,AIRPORT
+Egypt,CCE,213521033,Capital International,AIRPORT
+Egypt,HRG,128668638,Hurghada,AIRPORT
+Egypt,HMB,128668629,Sohag,AIRPORT
+Egypt,SSH,104120255,Sharm El Sheikh,AIRPORT
+Egypt,SPX,199775241,Sphinx International,AIRPORT
+Uruguay,UY,29475404,Uruguay,COUNTRY
+Uruguay,MVD,95673489,Montevideo,AIRPORT
+Uruguay,PDP,95673490,Punta Del Este,AIRPORT
+Uruguay,STY,128667739,Salto,AIRPORT
+Uzbekistan,UZ,29475316,Uzbekistan,COUNTRY
+Uzbekistan,TAS,95673420,Tashkent,AIRPORT
+Uzbekistan,SKD,128667861,Samarkand,AIRPORT
+Uzbekistan,UGC,128669092,Urgench,AIRPORT
+Uzbekistan,BHK,95673961,Bukhara,AIRPORT
+Uzbekistan,FEG,128668577,Fergana,AIRPORT
+Uzbekistan,NCU,128667772,Nukus,AIRPORT
+Uzbekistan,NVI,128668887,Navoiy,AIRPORT
+Città del Vaticano,PUJ,95673339,Punta Cana,AIRPORT
+Città del Vaticano,CLO,95673404,Cali,AIRPORT
+Città del Vaticano,IAO,128668645,Sayak,AIRPORT
+Città del Vaticano,OVD,95565102,Asturias,AIRPORT
+Città del Vaticano,BOC,128668293,Bocas Del Toro,AIRPORT
+Città del Vaticano,DVO,95674101,Davao International,AIRPORT
+Città del Vaticano,USH,95674337,Ushuaia,AIRPORT
+Città del Vaticano,PDP,95673490,Punta Del Este,AIRPORT
+Eritrea,ER,29475225,Eritrea,COUNTRY
+Eritrea,ASM,128667418,Asmara,AIRPORT
+Saint Vincent and the Grenadines,VC,29475415,Saint Vincent and the Grenadines,COUNTRY
+Ethiopia,ET,29475224,Ethiopia,COUNTRY
+Ethiopia,ADD,128668203,Addis Ababa,AIRPORT
+Ethiopia,JIJ,129055513,Jijiga,AIRPORT
+Ethiopia,GDQ,128667272,Gondar,AIRPORT
+Ethiopia,LLI,128667113,Lalibela,AIRPORT
+Ethiopia,MQX,128667873,Makale,AIRPORT
+Ethiopia,BJR,128667531,Bahar Dar,AIRPORT
+Ethiopia,NEK,129055086,Nekemt,AIRPORT
+Venezuela,VE,29475423,Venezuela,COUNTRY
+Venezuela,CCS,95673431,Caracas,AIRPORT
+Venezuela,VLN,128667160,Valencia,AIRPORT
+Venezuela,BLA,128667316,Barcelona,AIRPORT
+Venezuela,MAR,128668820,Maracaibo,AIRPORT
+Venezuela,PMV,128667757,Porlamar,AIRPORT
+Venezuela,BRM,128668172,Barquisimeto,AIRPORT
+Venezuela,AGV,129052409,Acarigua,AIRPORT
+British Virgin Islands,VG,29475093,British Virgin Islands,COUNTRY
+British Virgin Islands,VIJ,104120320,Virgin Gorda,AIRPORT
+British Virgin Islands,EIS,104120319,Terrance B. Lettsome International,AIRPORT
+US Virgin Islands,VI,29475171,US Virgin Islands,COUNTRY
+US Virgin Islands,STXA,222576426,St. Croix,CITY
+US Virgin Islands,STX,104120321,Henry E. Rohlsen,AIRPORT
+US Virgin Islands,SSB,128667380,Christiansted SPB,AIRPORT
+Vietnam,VN,29475319,Vietnam,COUNTRY
+Vietnam,SGN,95673379,Ho Chi Minh City,AIRPORT
+Vietnam,HAN,128668079,Hanoi,AIRPORT
+Vietnam,DAD,95673615,Da Nang,AIRPORT
+Vietnam,VCS,128669107,Con Dao,AIRPORT
+Vietnam,VII,104120417,Vinh City,AIRPORT
+Vietnam,VCA,128667679,Can Tho,AIRPORT
+Vietnam,PQC,128667199,Phu Quoc,AIRPORT
+Vanuatu,VU,29475341,Vanuatu,COUNTRY
+Vanuatu,VLI,128667040,Port Vila,AIRPORT
+Vanuatu,SON,128667381,Santo International,AIRPORT
+Vanuatu,SSR,128667966,Sara,AIRPORT
+Vanuatu,AWD,128668465,Aniwa,AIRPORT
+Vanuatu,LOD,128668801,Longana,AIRPORT
+Vanuatu,LNB,128667487,Lamen Bay,AIRPORT
+Vanuatu,MTV,128667479,Mota Lava,AIRPORT
+Fiji,FJ,29475343,Fiji,COUNTRY
+Fiji,NAN,99539668,Nadi,AIRPORT
+Fiji,SUV,128669030,Suva,AIRPORT
+Fiji,SVU,128668521,Savusavu,AIRPORT
+Fiji,LBS,128667236,Labasa,AIRPORT
+Fiji,TVU,128667167,Taveuni,AIRPORT
+Fiji,KDV,128668724,Kandavu,AIRPORT
+Fiji,VBV,128669106,Vanuabalavu,AIRPORT
+Falkland Islands,FK,29475090,Falkland Islands,COUNTRY
+Falkland Islands,MPN,128668848,Stanley,AIRPORT
+Micronesia,FM,29475142,Micronesia,COUNTRY
+Micronesia,PNI,104120356,Pohnpei,AIRPORT
+Micronesia,TKK,128668983,Truk,AIRPORT
+Micronesia,KSA,128668755,Kosrae,AIRPORT
+Micronesia,YAP,128669153,Yap,AIRPORT
+Faroe Islands,FO,29475143,Faroe Islands,COUNTRY
+Faroe Islands,FAE,128668089,Sorvagur,AIRPORT
+France,FR,29475385,France,COUNTRY
+France,PARI,27539733,Paris,CITY
+France,CDG,95565041,Paris Charles de Gaulle,AIRPORT
+France,ORY,95565040,Paris Orly,AIRPORT
+France,BVA,95566278,Paris Beauvais,AIRPORT
+France,FDF,99539664,Fort De France,AIRPORT
+France,NCE,95673860,Nice,AIRPORT
+France,MLH,128668684,Mulhouse,AIRPORT
+Wallis and Futuna Islands,WF,29475172,Wallis and Futuna Islands,COUNTRY
+Wallis and Futuna Islands,WLS,128669131,Wallis Island,AIRPORT
+Wallis and Futuna Islands,FUT,129054969,Pointe Vele,AIRPORT
+Gabon,GA,29475360,Gabon,COUNTRY
+Gabon,LBV,99539642,Libreville,AIRPORT
+Gabon,POG,129052141,Port Gentil,AIRPORT
+Gabon,MVB,129054327,Franceville / Mvengue,AIRPORT
+Gabon,OYE,129056546,Oyem,AIRPORT
+Gabon,GAX,129055788,Gamba,AIRPORT
+Samoa,WS,29475435,Samoa,COUNTRY
+Samoa,APWW,27536390,Apia,CITY
+Samoa,APW,104120266,Apia Faleolo,AIRPORT
+Samoa,FGI,128668088,Apia Fagali I,AIRPORT
+Samoa,SMI,128667183,Samos,AIRPORT
+Grenada,GD,29475416,Grenada,COUNTRY
+Grenada,GND,128667998,Maurice Bishop International,AIRPORT
+Grenada,GRX,95565084,Granada,AIRPORT
+Grenada,CRU,129057340,Carriacou Island,AIRPORT
+Georgia,ATLA,27541735,Atlanta,CITY
+Georgia,ATL,95673800,Atlanta Hartsfield-Jackson,AIRPORT
+Georgia,PDK,129054121,Atlanta De Kalb / Peachtree,AIRPORT
+Georgia,FTY,129054997,Atlanta Fulton County,AIRPORT
+Georgia,SAV,95674148,Savannah / Hilton Head,AIRPORT
+Georgia,AGS,95674191,Augusta Bush Field,AIRPORT
+Georgia,CSG,95674034,Columbus Metropolitain,AIRPORT
+Georgia,MCN,128668825,Macon Lewis B Wilson,AIRPORT
+Guyane Française,GY,29475401,Guyana,COUNTRY
+Guyane Française,GYU,136218705,Liupanshan,AIRPORT
+Guernsey,GCI,104120249,Guernsey,AIRPORT
+Guernsey,GG,29475145,Guernsey,COUNTRY
+Guernsey,ACI,128668200,Alderney,AIRPORT
+Ghana,GH,29475352,Ghana,COUNTRY
+Ghana,ACC,128667421,Accra,AIRPORT
+Ghana,KMS,99539655,Kumasi,AIRPORT
+Ghana,TKD,99539654,Takoradi,AIRPORT
+Ghana,NYI,129055567,Sunyani,AIRPORT
+Ghana,TML,128669067,Tamale,AIRPORT
+Ghana,WZA,200853143,Wa,AIRPORT
+Gibraltar,GIB,95565107,Gibraltar,AIRPORT
+Gibraltar,GI,29475094,Gibraltar,COUNTRY
+Greenland,GL,29475146,Greenland,COUNTRY
+Greenland,GOH,128668323,Nuuk,AIRPORT
+Greenland,JAV,128668700,Ilulissat,AIRPORT
+Greenland,SFJ,128669000,Kangerlussuaq,AIRPORT
+Greenland,CNP,128668149,Neerlerit Inaat,AIRPORT
+Greenland,UAK,128669089,Narsarsuaq,AIRPORT
+Greenland,KUS,128668764,Kulusuk Island,AIRPORT
+Greenland,OBY,128668898,Ittoqqortoormiit,AIRPORT
+Gambia,BJL,128668285,Banjul,AIRPORT
+Gambia,GM,29475363,Gambia,COUNTRY
+Guinea,GW,29475357,Guinea-Bissau,COUNTRY
+Guinea,GN,29475364,Guinea,COUNTRY
+Guinea,CKY,128668164,Conakry,AIRPORT
+Guinea,PG,29475337,Papua New Guinea,COUNTRY
+Guinea,GQ,29475353,Equatorial Guinea,COUNTRY
+Guinea,POM,99539646,Port Moresby,AIRPORT
+Guinea,SOQ,128669023,Sorong,AIRPORT
+Guinea,SSG,99539630,Malabo,AIRPORT
+Guadeloupe,GP,29475147,Guadeloupe,COUNTRY
+Guadeloupe,PTP,99539671,Pointe-a-Pitre,AIRPORT
+Guadeloupe,GBJ,129056385,Marie Galante,AIRPORT
+Equatorial Guinea,BSG,129051948,Bata,AIRPORT
+Equatorial Guinea,NBN,152712068,Annobón,AIRPORT
+South Georgia and the South Sandwich Islands,TFS,95673303,Tenerife South,AIRPORT
+South Georgia and the South Sandwich Islands,KR,29475329,South Korea,COUNTRY
+South Georgia and the South Sandwich Islands,GE,29475247,Georgia,COUNTRY
+South Georgia and the South Sandwich Islands,ZA,29475272,South Africa,COUNTRY
+South Georgia and the South Sandwich Islands,SELA,27538638,Seoul,CITY
+South Georgia and the South Sandwich Islands,ICN,95673659,Incheon International,AIRPORT
+South Georgia and the South Sandwich Islands,GMP,128668604,Gimpo International,AIRPORT
+Guatemala,GUA,95673534,Guatemala City,AIRPORT
+Guatemala,GT,29475419,Guatemala,COUNTRY
+Guatemala,FRS,128667274,Flores,AIRPORT
+Guatemala,AAZ,129057724,Quetzaltenango,AIRPORT
+Guatemala,PBR,129055055,Puerto Barrios,AIRPORT
+Guatemala,RER,129053333,Retalhuleu,AIRPORT
+Guam,GU,29475148,Guam,COUNTRY
+Guam,GUM,99539677,Guam A.B. Won Pat,AIRPORT
+Guam,SJE,128669008,San Jose Del Gua,AIRPORT
+Guyana,GEOA,27541803,Georgetown,CITY
+Guyana,GEO,99539648,Georgetown,AIRPORT
+Guyana,OGL,128667904,Ogle,AIRPORT
+Guyana,LTM,129054019,Lethem,AIRPORT
+Kosovo,PRN,99539643,Pristina,AIRPORT
+Kosovo,XK,29475141,Kosovo,COUNTRY
+Honduras,HN,29475420,Honduras,COUNTRY
+Honduras,SAP,128668992,San Pedro Sula,AIRPORT
+Honduras,XPL,129053838,Comayagua,AIRPORT
+Honduras,RTB,128667389,Roatan,AIRPORT
+Honduras,TGU,95673583,Tegucigalpa,AIRPORT
+Honduras,LCE,128668779,La Ceiba,AIRPORT
+Honduras,UII,128669093,Utila,AIRPORT
+Honduras,PEU,128668925,Puerto Lempira,AIRPORT
+Haiti,HT,29475427,Haiti,COUNTRY
+Haiti,CAP,128668359,Cap Haitien,AIRPORT
+Haiti,CYA,129052781,Les Cayes,AIRPORT
+Haiti,PAP,95673497,Toussaint Louverture,AIRPORT
+Yemen,YE,29475183,Yemen,COUNTRY
+Yemen,ADE,95673713,Aden,AIRPORT
+Yemen,SCT,128667188,Socotra,AIRPORT
+Yemen,GXF,128668135,Seiyun,AIRPORT
+Yemen,AAY,128668193,Al Ghaydah,AIRPORT
+Indonesia,ID,29475321,Indonesia,COUNTRY
+Indonesia,DPS,95673809,Bali (Denpasar),AIRPORT
+Indonesia,CGKI,27539774,Jakarta,CITY
+Indonesia,CGK,95673340,Soekarno-Hatta,AIRPORT
+Indonesia,HLP,104120220,Halim Perdana Kusuma,AIRPORT
+Indonesia,LOP,128667788,Lombok International,AIRPORT
+Indonesia,BTJ,95673959,Banda Aceh,AIRPORT
+Mayotte,YT,29475173,Mayotte,COUNTRY
+Mayotte,DZA,99539674,Dzaoudzi,AIRPORT
+Ireland,IE,29475383,Ireland,COUNTRY
+Ireland,DUB,95673529,Dublin,AIRPORT
+Ireland,NOC,95674291,Ireland West Knock,AIRPORT
+Ireland,ORK,128667087,Cork,AIRPORT
+Ireland,CFN,128668452,Donegal,AIRPORT
+Ireland,SNN,95674051,Shannon,AIRPORT
+Ireland,NNR,129056177,Spiddal Connemara,AIRPORT
+Ireland,KIR,128667246,Kerry,AIRPORT
+Israel,IL,29475217,Israel,COUNTRY
+Israel,TLV,95673635,Ben Gurion Intl,AIRPORT
+Israel,HFA,129052156,Haifa,AIRPORT
+Israel,ETM,200246776,Ramon,AIRPORT
+India,IN,29475284,India,COUNTRY
+India,IND,95673608,Indianapolis,AIRPORT
+India,DEL,95673498,Indira Gandhi International,AIRPORT
+India,BOM,95673320,Mumbai,AIRPORT
+India,HYD,128668073,Hyderabad,AIRPORT
+India,BLR,95673351,Bengaluru,AIRPORT
+India,MAA,95673361,Chennai,AIRPORT
+India,CNN,192465714,Kannur International,AIRPORT
+South Africa,CPT,95673380,Cape Town,AIRPORT
+South Africa,JNBA,27541777,Johannesburg,CITY
+South Africa,JNB,95673415,Johannesburg O.R. Tambo,AIRPORT
+South Africa,HLA,95673416,Lanseria,AIRPORT
+South Africa,HDS,128668619,Hoedspruit,AIRPORT
+South Africa,MQP,128668849,Nelspruit,AIRPORT
+South Africa,AAM,129055248,Mala Mala,AIRPORT
+Iraq,IQ,29475186,Iraq,COUNTRY
+Iraq,BGW,128668032,Baghdad International,AIRPORT
+Iraq,EBL,128668093,Erbil,AIRPORT
+Iraq,ISU,128668663,Sulaymaniyah International,AIRPORT
+Iraq,NJF,128668879,Najaf,AIRPORT
+Iraq,BSR,128667314,Basra,AIRPORT
+Iraq,KIK,129054411,Kirkuk,AIRPORT
+Iraq,IR,29475194,Iran,COUNTRY
+Iran,THRA,27542826,Tehran,CITY
+Iran,IKA,95673343,Imam Khomeini International,AIRPORT
+Iran,THR,128667174,Mehrabad International,AIRPORT
+Iran,IHR,129055661,Iran Shahr,AIRPORT
+Iran,MHD,128667938,Mashhad,AIRPORT
+Iran,SYZ,128667178,Shiraz,AIRPORT
+Iran,ZAH,128667019,Zahedan,AIRPORT
+Iceland,IS,29475374,Iceland,COUNTRY
+Iceland,REYK,27543786,Reykjavik,CITY
+Iceland,KEF,128667498,Reykjavik Keflavik,AIRPORT
+Iceland,RKV,128667680,Reykjavik Domestic,AIRPORT
+Iceland,AEY,104120368,Akureyri,AIRPORT
+Iceland,EGS,128668334,Egilsstadir,AIRPORT
+Iceland,IFJ,128667937,Isafjordur,AIRPORT
+Iceland,VEY,129051931,Vestmannaeyjar,AIRPORT
+Italia,IT,29475393,Italy,COUNTRY
+Zambia,ZM,29475263,Zambia,COUNTRY
+Zambia,LUN,99539633,Lusaka,AIRPORT
+Zambia,LVI,99539661,Livingstone,AIRPORT
+Zambia,NLA,99539653,Ndola,AIRPORT
+Zambia,MFU,128668686,Mfuwe,AIRPORT
+Zambia,SLI,128669013,Solwezi,AIRPORT
+Zambia,ZAMB,44495465,Jeki,CITY
+Zambia,UMB,216771482,Kalumbila,AIRPORT
+Zimbabwe,ZW,29475262,Zimbabwe,COUNTRY
+Zimbabwe,HRE,128668316,Harare,AIRPORT
+Zimbabwe,VFA,95674201,Victoria Falls,AIRPORT
+Zimbabwe,BUQ,128667313,Bulawayo,AIRPORT
+Zimbabwe,KAB,129054420,Kariba,AIRPORT
+Zimbabwe,HWN,129054086,Hwange National Park,AIRPORT
+Jamaica,JM,29475406,Jamaica,COUNTRY
+Jamaica,OCJ,129056927,Ocho Rios,AIRPORT
+Jordan,JO,29475210,Jordan,COUNTRY
+Jordan,AMM,95673636,Amman Queen Alia,AIRPORT
+Jordan,AQJ,95674399,Aqaba,AIRPORT
+Japan,JP,29475330,Japan,COUNTRY
+Japan,TYOA,27542089,Tokyo,CITY
+Japan,HND,128667143,Tokyo Haneda,AIRPORT
+Japan,NRT,128668889,Tokyo Narita,AIRPORT
+Japan,OSAA,27542908,Osaka,CITY
+Japan,KIX,128667802,Kansai International (Osaka),AIRPORT
+Japan,UKB,128667165,Kobe,AIRPORT
+Japan,MMY,128667223,Miyako Jima,AIRPORT
+Kenya,KE,29475203,Kenya,COUNTRY
+Kenya,NBOA,27536215,Nairobi,CITY
+Kenya,NBO,95673395,Nairobi Jomo Kenyatta,AIRPORT
+Kenya,WIL,95673394,Nairobi Wilson,AIRPORT
+Kenya,MBA,95673595,Mombasa,AIRPORT
+Kenya,MYD,95673596,Malindi,AIRPORT
+Kenya,KIS,128668735,Kisumu,AIRPORT
+Kenya,LAU,128667572,Lamu,AIRPORT
+Kyrgyzstan,KG,29475318,Kyrgyzstan,COUNTRY
+Kyrgyzstan,FRU,95673569,Bishkek,AIRPORT
+Kyrgyzstan,OSS,128667406,Osh,AIRPORT
+Kyrgyzstan,IKU,153878260,Issyk-Kul,AIRPORT
+Cambodia,KH,29475328,Cambodia,COUNTRY
+Cambodia,PNH,95673442,Phnom Penh,AIRPORT
+Cambodia,SAI,216746011,Siem Reap Angkor,AIRPORT
+Cambodia,KOS,128668749,Sihanoukville,AIRPORT
+Cambodia,DSY,223048378,Dara Sakor International,AIRPORT
+Kiribati,KI,29475433,Kiribati,COUNTRY
+Kiribati,TRW,128668511,Bonriki International,AIRPORT
+Kiribati,MZK,129053554,Marakei,AIRPORT
+Kiribati,BEZ,129052948,Beru,AIRPORT
+Kiribati,KUC,129057103,Kuria,AIRPORT
+Kiribati,OOT,129057489,Onotoa,AIRPORT
+Kiribati,TNV,129056158,Tabuaeran,AIRPORT
+Comoros,KM,29475264,Comoros,COUNTRY
+Comoros,HAH,128667951,Moroni Prince Said Ibrahim In,AIRPORT
+Comoros,AJN,129054662,Ouani,AIRPORT
+Comoros,NWA,129055074,Moheli,AIRPORT
+North Korea,KP,29475331,North Korea,COUNTRY
+North Korea,FNJ,128668087,Pyongyang,AIRPORT
+North Korea,KUV,128667492,Gunsan,AIRPORT
+North Korea,KPO,128667905,Pohang,AIRPORT
+South Korea,KR,29475329,South Korea,COUNTRY
+South Korea,SELA,27538638,Seoul,CITY
+South Korea,ICN,95673659,Incheon International,AIRPORT
+South Korea,GMP,128668604,Gimpo International,AIRPORT
+South Korea,PUS,128667080,Gimhae International,AIRPORT
+South Korea,TAE,128667377,Daegu,AIRPORT
+South Korea,KPO,128667905,Pohang,AIRPORT
+South Korea,KWJ,128668767,Gwangju,AIRPORT
+Kuwait,KWI,95674260,Kuwait,AIRPORT
+Kuwait,KW,29475212,Kuwait,COUNTRY
+Cayman Islands,KY,29475089,Cayman Islands,COUNTRY
+Cayman Islands,CYB,104120420,Charles Kirkconnell International,AIRPORT
+Cayman Islands,LYB,128667785,Edward Bodden,AIRPORT
+Cayman Islands,GCM,104120274,Owen Roberts International,AIRPORT
+Kazakhstan,KZ,29475317,Kazakhstan,COUNTRY
+Kazakhstan,ALA,114115878,Almaty,AIRPORT
+Kazakhstan,NQZ,204208357,Astana Nursultan Nazarbayev,AIRPORT
+Kazakhstan,CIT,114143424,Shimkent,AIRPORT
+Kazakhstan,URA,129055628,Uralsk,AIRPORT
+Kazakhstan,SCO,114117386,Aktau,AIRPORT
+Kazakhstan,GUW,114120523,Atyrau,AIRPORT
+Kazakhstan,PPK,129054499,Petropavlovsk,AIRPORT
+Laos,LA,29475322,Laos,COUNTRY
+Laos,VTE,95673965,Vientiane,AIRPORT
+Laos,LPQ,95674391,Luang Prabang,AIRPORT
+Laos,PKZ,128667401,Pakse,AIRPORT
+Laos,BOR,220222175,Bokeo International,AIRPORT
+Laos,XKH,128667153,Xieng Khouang,AIRPORT
+Laos,ZVK,128667015,Savannakhet,AIRPORT
+Laos,ZBY,129052984,Sayaboury,AIRPORT
+Lebanon,BEY,128667319,Beirut,AIRPORT
+Lebanon,LEB,128668785,Lebanon,AIRPORT
+Lebanon,LB,29475211,Lebanon,COUNTRY
+Saint Lucia,LC,29475414,Saint Lucia,COUNTRY
+Saint Lucia,SLUA,27547015,Castries,CITY
+Saint Lucia,UVF,99539666,St Lucia Hewanorra,AIRPORT
+Saint Lucia,SLU,99539665,St Lucia Vigie,AIRPORT
+Fürstentum Liechtenstein,LI,29475387,Liechtenstein,COUNTRY
+Sri Lanka,LK,29475281,Sri Lanka,COUNTRY
+Sri Lanka,CMBA,27539843,Colombo,CITY
+Sri Lanka,CMB,95673656,Colombo Bandaranayake,AIRPORT
+Sri Lanka,RML,129053405,Colombo Ratmalana,AIRPORT
+Sri Lanka,GIU,144763773,Sigiriya,AIRPORT
+Sri Lanka,TRR,129052424,Trincomalee,AIRPORT
+Sri Lanka,JAF,129056280,Jaffna,AIRPORT
+Sri Lanka,KCT,128667982,Koggala,AIRPORT
+Liberia,LR,29475350,Liberia,COUNTRY
+Liberia,ROB,128668981,Monrovia Roberts,AIRPORT
+Lesotho,LS,29475268,Lesotho,COUNTRY
+Lesotho,MSU,99539659,Maseru,AIRPORT
+Lithuania,LT,29475240,Lithuania,COUNTRY
+Lithuania,VNO,95673717,Vilnius,AIRPORT
+Lithuania,KUN,128667796,Kaunas,AIRPORT
+Lithuania,PLQ,128668936,Palanga International,AIRPORT
+Luxembourg,LUX,95674057,Luxembourg,AIRPORT
+Luxembourg,LU,29475382,Luxembourg,COUNTRY
+Latvia,LV,29475236,Latvia,COUNTRY
+Latvia,RIX,95673617,Riga International,AIRPORT
+Libya,LY,29475344,Libya,COUNTRY
+Libya,MJI,129055550,Mitiga,AIRPORT
+Libya,BEN,128667414,Benghazi,AIRPORT
+Libya,MRA,128667101,Misurata,AIRPORT
+Libya,SEB,128667672,Sebha,AIRPORT
+Libya,TOB,128667696,Tobruk,AIRPORT
+Morocco,MA,29475370,Morocco,COUNTRY
+Morocco,CMN,95673387,Casablanca Mohamed V.,AIRPORT
+Morocco,RAK,95673588,Marrakech Menara,AIRPORT
+Morocco,RBA,95673388,Rabat,AIRPORT
+Morocco,AGA,95673640,Agadir,AIRPORT
+Morocco,TNG,128668513,Tangier Ibn Battouta,AIRPORT
+Morocco,FEZ,128668578,Fes-Saïss,AIRPORT
+Morocco,GLN,128667271,Goulimime,AIRPORT
+Monaco,MC,29475384,Monaco,COUNTRY
+Moldova,MD,29475249,Moldova,COUNTRY
+Moldova,RMO,217960351,Chisinau,AIRPORT
+Montenegro,ME,29475395,Montenegro,COUNTRY
+Montenegro,TGD,128667055,Podgorica,AIRPORT
+Montenegro,TIV,128669052,Tivat,AIRPORT
+Madagascar,MG,29475274,Madagascar,COUNTRY
+Madagascar,TNR,104120228,Antananarivo,AIRPORT
+Madagascar,NOS,128668673,Nosy Be,AIRPORT
+Madagascar,MOQ,128668845,Morondava,AIRPORT
+Madagascar,TLE,128667701,Tulear,AIRPORT
+Madagascar,TMM,128667371,Tamatave,AIRPORT
+Madagascar,WMN,128667667,Maroantsetra,AIRPORT
+Madagascar,MJN,128667560,Majunga,AIRPORT
+Marshall Islands,MH,29475156,Marshall Islands,COUNTRY
+Marshall Islands,MAJ,128668817,Amata Kabua International,AIRPORT
+Marshall Islands,KWA,128667239,Kwajalein,AIRPORT
+Marshall Islands,KIO,129053626,Kili Island,AIRPORT
+Marshall Islands,AUL,129053783,Aur Island,AIRPORT
+Marshall Islands,KBT,129054541,Kaben Island,AIRPORT
+Marshall Islands,EBO,129053050,Ebon,AIRPORT
+Marshall Islands,WTE,129055957,Wotje Atoll,AIRPORT
+Republic of Macedonia,MNL,95673326,Manila Ninoy Aquino,AIRPORT
+Republic of Macedonia,SKG,95673847,Thessaloniki,AIRPORT
+Republic of Macedonia,SKP,95673755,Skopje,AIRPORT
+Republic of Macedonia,MK,29475256,North Macedonia,COUNTRY
+Republic of Macedonia,OHD,128667209,Ohrid,AIRPORT
+Republic of Macedonia,KVA,128667970,Kavala Alexandros,AIRPORT
+Mali,ARD,128668254,Mali,AIRPORT
+Mali,OGG,104120303,Maui Kahului,AIRPORT
+Mali,CNX,95674024,Chiang Mai,AIRPORT
+Mali,ML,29475367,Mali,COUNTRY
+Mali,BKO,99539632,Modibo Keita International,AIRPORT
+Mali,GAQ,129052715,Gao,AIRPORT
+Myanmar,MM,29475315,Burma,COUNTRY
+Myanmar,RGN,99539623,Yangon,AIRPORT
+Myanmar,MDL,99539634,Mandalay,AIRPORT
+Myanmar,NYU,128667906,Nyaung-u,AIRPORT
+Myanmar,MYT,128667774,Myitkyina,AIRPORT
+Myanmar,NYT,129055529,Naypyidaw,AIRPORT
+Myanmar,HEH,128668420,Heho,AIRPORT
+Myanmar,KET,128668727,Keng Tung,AIRPORT
+Mongolia,MN,29475335,Mongolia,COUNTRY
+Mongolia,UBN,205421011,Chinggis Khaan,AIRPORT
+Mongolia,ULO,128667684,Ulaangom,AIRPORT
+Mongolia,MXV,128668861,Moron,AIRPORT
+Mongolia,ULG,128669096,Ulgit,AIRPORT
+Mongolia,HVD,128668642,Khovd,AIRPORT
+Mongolia,DLZ,128668163,Dalanzadgad,AIRPORT
+Mongolia,LTI,128667948,Altai,AIRPORT
+Macau,MFM,95673345,Macau,AIRPORT
+Macau,XMS,128669105,Macas,AIRPORT
+Northern Mariana Islands,MP,29475157,Northern Mariana Islands,COUNTRY
+Northern Mariana Islands,SPN,128669025,Saipan International,AIRPORT
+Northern Mariana Islands,ROP,128667461,Rota,AIRPORT
+Martinique,MQ,29475158,Martinique,COUNTRY
+Mauritania,MR,29475358,Mauritania,COUNTRY
+Mauritania,NKC,99539639,Nouakchott,AIRPORT
+Mauritania,NDB,129052803,Nouadhibou,AIRPORT
+Mauritania,ATR,129053784,Atar,AIRPORT
+Mauritania,OUZ,129055545,Zouerate,AIRPORT
+Mauritania,EMN,129053699,Nema,AIRPORT
+Montserrat,MS,29475095,Montserrat,COUNTRY
+Montserrat,MNI,104120263,John A. Osborne,AIRPORT
+Malta,MT,29475371,Malta,COUNTRY
+Malta,MLA,128668837,Luqa Malta International,AIRPORT
+Malta,SMR,95673469,Santa Marta,AIRPORT
+Malta,IZA,129052668,Zona da Mata,AIRPORT
+Mauritius,MRU,128668851,Mauritius,AIRPORT
+Mauritius,MU,29475270,Mauritius,COUNTRY
+Mauritius,RRG,128667874,Rodrigues Is,AIRPORT
+Maldives,MV,29475313,Maldives,COUNTRY
+Maldives,MLE,104120258,Velana International,AIRPORT
+Maldives,KDO,128668723,Kadhdhoo,AIRPORT
+Maldives,GAN,128668590,Gan Island,AIRPORT
+Maldives,FND,213950189,Funadhoo,AIRPORT
+Maldives,FMT,213943731,Faresmaathoda,AIRPORT
+Maldives,HAQ,128667509,Hanimaadhoo,AIRPORT
+Maldives,NMF,213950191,Maafaru,AIRPORT
+Malawi,MW,29475265,Malawi,COUNTRY
+Malawi,LLW,99539640,Lilongwe,AIRPORT
+Malawi,BLZ,99539641,Blantyre,AIRPORT
+Malawi,ZZU,129056826,Mzuzu,AIRPORT
+Malawi,CMK,129054973,Club Makokola,AIRPORT
+Malawi,LIX,129052808,Likoma Island,AIRPORT
+Malawi,CEH,129052749,Chelinda,AIRPORT
+Malawi,VUU,129053066,Mvuu Camp,AIRPORT
+México,MEXA,39151418,Mexico City,CITY
+México,MEX,95673321,Mexico City Juarez International,AIRPORT
+México,NLU,129053801,Felipe Angeles International,AIRPORT
+México,MX,29475432,Mexico,COUNTRY
+México,CUN,95673718,Cancun,AIRPORT
+México,GDL,95673440,Guadalajara,AIRPORT
+México,TIJ,95673471,Tijuana,AIRPORT
+México,SJD,95674414,Los Cabos International,AIRPORT
+Malaysia,MY,29475325,Malaysia,COUNTRY
+Malaysia,KULM,27543923,Kuala Lumpur,CITY
+Malaysia,KUL,95673456,Kuala Lumpur International,AIRPORT
+Malaysia,SZB,128667595,Kuala Lumpur Sultan Abdul Azziz Shah,AIRPORT
+Malaysia,PEN,95673646,Penang,AIRPORT
+Malaysia,TGC,128667731,Tanjung Manis,AIRPORT
+Malaysia,SDK,95673813,Sandakan,AIRPORT
+Malaysia,MKZ,95673457,Malacca,AIRPORT
+Mozambique,MZ,29475273,Mozambique,COUNTRY
+Mozambique,MPM,99539635,Maputo,AIRPORT
+Mozambique,BEW,128668275,Beira,AIRPORT
+Mozambique,VNX,128669118,Vilanculos,AIRPORT
+Mozambique,APL,128667419,Nampula,AIRPORT
+Mozambique,POL,128668943,Pemba,AIRPORT
+Mozambique,INH,128667814,Inhambane,AIRPORT
+Mozambique,VXC,128667358,Lichinga,AIRPORT
+Namibia,NA,29475398,Namibia,COUNTRY
+Namibia,WDHA,27536196,Windhoek,CITY
+Namibia,WDH,128668500,Windhoek Hosea Kutako,AIRPORT
+Namibia,ERS,128668439,Windhoek Eros,AIRPORT
+Namibia,WVB,99539676,Walvis Bay,AIRPORT
+Namibia,SWP,129057229,Swakopmund,AIRPORT
+Namibia,NDU,128668873,Rundu,AIRPORT
+Namibia,LUD,128667230,Luderitz,AIRPORT
+New Caledonia,NC,29475159,New Caledonia,COUNTRY
+New Caledonia,NOUN,39132034,Noumea,CITY
+New Caledonia,NOU,99539663,Noumea Tontouta,AIRPORT
+New Caledonia,GEA,129055588,Noumea Magenta,AIRPORT
+New Caledonia,TGJ,129057042,Tiga,AIRPORT
+New Caledonia,UVE,129055590,Ouvéa,AIRPORT
+New Caledonia,LIF,129052199,Ouanaham,AIRPORT
+New Caledonia,ILP,129055515,Ile Des Pins,AIRPORT
+Niger,NG,29475354,Nigeria,COUNTRY
+Niger,LOS,95673335,Lagos,AIRPORT
+Niger,NE,29475366,Niger,COUNTRY
+Niger,NIM,99539637,Niamey,AIRPORT
+Niger,AJY,129052406,Agades,AIRPORT
+Niger,ZND,129055893,Zinder,AIRPORT
+Niger,PHC,95673504,Port Harcourt,AIRPORT
+Nigeria,ENU,128667518,Enugu,AIRPORT
+Nigeria,KAN,128667586,Aminu Kano Intl,AIRPORT
+Nigeria,ABB,128668194,Asaba International,AIRPORT
+Nigeria,MDI,129056122,Makurdi,AIRPORT
+Nicaragua,NI,29475421,Nicaragua,COUNTRY
+Nicaragua,MGA,95673543,Managua,AIRPORT
+Nicaragua,RNI,129053522,Corn Island,AIRPORT
+Nicaragua,BEF,129054920,Bluefields,AIRPORT
+Nicaragua,PUZ,129053967,Puerto Cabezas,AIRPORT
+Norge,JDO,95673992,Juazeiro Do Norte,AIRPORT
+Norge,NTR,129056933,Monterrey Aeropuerto Del Norte,AIRPORT
+Norge,RKA,128667749,Aratika Nord,AIRPORT
+Nepal,NP,29475314,Nepal,COUNTRY
+Nepal,KTM,95673458,Kathmandu,AIRPORT
+Nepal,KEP,128667128,Nepalganj,AIRPORT
+Nepal,PKRA,27545974,Pokhara,CITY
+Nepal,PKR,128667758,Pokhara,AIRPORT
+Nepal,DOP,129053146,Dolpa,AIRPORT
+Nepal,BHP,129057380,Bhojpur,AIRPORT
+Nepal,RHP,129052582,Ramechhap,AIRPORT
+Nauru,NR,29475340,Nauru,COUNTRY
+Nauru,INU,128668070,Nauru International,AIRPORT
+Niue,NU,29475174,Niue Island,COUNTRY
+Niue,IUE,128668693,Niue Island,AIRPORT
+Niue,FNI,128668582,Nimes,AIRPORT
+New Zealand,NZ,29475342,New Zealand,COUNTRY
+New Zealand,AKL,95673805,Auckland International,AIRPORT
+New Zealand,CHC,95673841,Christchurch,AIRPORT
+New Zealand,ZQN,104120283,Queenstown,AIRPORT
+New Zealand,WHK,128667440,Whakatane,AIRPORT
+New Zealand,KKE,95674374,Kerikeri,AIRPORT
+New Zealand,GIS,128668140,Gisborne,AIRPORT
+New Zealand,WLG,128668499,Wellington,AIRPORT
+Oman,OM,29475213,Oman,COUNTRY
+Oman,MCT,104120234,Muscat,AIRPORT
+Oman,SLL,95674086,Salalah,AIRPORT
+Oman,OHS,144763769,Sohar,AIRPORT
+Oman,DQM,144763781,Duqm International,AIRPORT
+Oman,KHS,128667804,Khasab,AIRPORT
+Oman,MSH,129056957,Masirah,AIRPORT
+Oman,OBN,128667090,Oban Connel,AIRPORT
+Panamá,PA,29475426,Panama,COUNTRY
+Panamá,PTYA,39523307,Panama City,CITY
+Panamá,PTY,95673808,Panama City Tocumen International,AIRPORT
+Panamá,PAC,129055563,Panama City Paitilla,AIRPORT
+Panamá,BLB,129053201,Balboa,AIRPORT
+Panamá,ECP,95674331,Northwest Florida Beaches International,AIRPORT
+Panamá,DAV,129052747,David,AIRPORT
+Perú,PE,29475431,Peru,COUNTRY
+Perú,LIMA,27544067,Lima,CITY
+Perú,LIM,95673342,Lima,AIRPORT
+Perú,SMG,129056316,Santa Maria,AIRPORT
+Perú,PEG,95566281,Perugia Santegidio,AIRPORT
+Perú,CUZ,95673897,Cuzco,AIRPORT
+Perú,ATA,129053856,Anta,AIRPORT
+Perú,AQP,104120359,Arequipa,AIRPORT
+French Polynesia,PF,29475161,French Polynesia,COUNTRY
+French Polynesia,PPT,104120297,Papeete,AIRPORT
+French Polynesia,BOB,128667315,Bora Bora,AIRPORT
+French Polynesia,MOZ,128667222,Temae,AIRPORT
+French Polynesia,RUR,128668532,Rurutu,AIRPORT
+French Polynesia,TUB,128669082,Tubuai,AIRPORT
+French Polynesia,RFP,128667683,Raiatea,AIRPORT
+French Polynesia,PKP,128668933,Puka Puka,AIRPORT
+Papua New Guinea,LAE,99539669,Lae,AIRPORT
+Papua New Guinea,MAG,128668819,Madang,AIRPORT
+Papua New Guinea,TIZ,128667664,Tari,AIRPORT
+Papua New Guinea,BUA,128667423,Buka,AIRPORT
+Papua New Guinea,GUR,128668081,Alotau,AIRPORT
+Papua New Guinea,UNG,128667164,Kiunga,AIRPORT
+Philippines,PH,29475324,Philippines,COUNTRY
+Philippines,CEB,95673597,Mactan-Cebu International,AIRPORT
+Philippines,CRK,95673327,Clark International,AIRPORT
+Philippines,MPH,128667778,Caticlan (Boracay),AIRPORT
+Philippines,TAG,95673598,Bohol-Panglao International,AIRPORT
+Philippines,PPS,95674098,Puerto Princesa (Palawan),AIRPORT
+Philippines,TBH,128668519,Tugdan,AIRPORT
+Pakistan,PK,29475277,Pakistan,COUNTRY
+Pakistan,ISB,128667932,Islamabad,AIRPORT
+Pakistan,LHE,128667890,Lahore,AIRPORT
+Pakistan,KHI,128667130,Karachi,AIRPORT
+Pakistan,MUX,128668859,Multan,AIRPORT
+Pakistan,BHV,128668282,Bahawalpur,AIRPORT
+Pakistan,UET,128667722,Quetta,AIRPORT
+Pakistan,SKT,128669011,Sialkot,AIRPORT
+St. Pierre and Miquelon,PM,29475162,St. Pierre and Miquelon,COUNTRY
+St. Pierre and Miquelon,FSP,128668585,St Pierre,AIRPORT
+Saint Kitts and Nevis,KN,29475411,Saint Kitts and Nevis,COUNTRY
+Saint Kitts and Nevis,NEV,128667862,Vance W. Amory International,AIRPORT
+Saint Kitts and Nevis,SKB,128667457,Basseterre,AIRPORT
+Guinea-Bissau,OXB,128668666,Bissau,AIRPORT
+Greece,GR,29475229,Greece,COUNTRY
+Greece,ATH,95673624,Athens International,AIRPORT
+Greece,CFU,95674252,Corfu,AIRPORT
+Greece,HER,95674142,Crete Heraklion,AIRPORT
+Greece,JTR,95674144,Santorini (Thira),AIRPORT
+Greece,JMK,104120331,Mykonos,AIRPORT
+Greece,EFL,95674407,Argostoli Kefalonia,AIRPORT
+Austria,AT,29475379,Austria,COUNTRY
+Austria,VIE,95673444,Vienna,AIRPORT
+Austria,SZG,95673492,Salzburg,AIRPORT
+Austria,LNZ,95674060,Linz,AIRPORT
+Austria,INN,95673493,Innsbruck,AIRPORT
+Austria,GRZ,95673952,Graz,AIRPORT
+Austria,KLU,95673951,Klagenfurt,AIRPORT
+Belgium,BE,29475380,Belgium,COUNTRY
+Belgium,BRUS,27539565,Brussels,CITY
+Belgium,BRU,95565036,Brussels International,AIRPORT
+Belgium,CRL,95565038,Brussels S. Charleroi,AIRPORT
+Belgium,ANR,95565037,Antwerp Deurne,AIRPORT
+Belgium,OST,95790303,Ostend - Bruges,AIRPORT
+Belgium,LGG,95566275,Liege,AIRPORT
+Belgium,KJK,129057114,Kortrijk,AIRPORT
+Russia,RU,29475334,Russia,COUNTRY
+Russia,MOSC,27539438,Moscow,CITY
+Russia,SVO,114137841,Moscow Sheremetyevo,AIRPORT
+Russia,DME,128668012,Moscow Domodedovo,AIRPORT
+Russia,VKO,114093937,Moscow Vnukovo,AIRPORT
+Russia,ZIA,139174153,Moscow Zhukovsky,AIRPORT
+Russia,RSH,128668984,Russian Mission,AIRPORT
+Russia,UUD,128669102,Baikal International,AIRPORT
+Bulgaria,BG,29475258,Bulgaria,COUNTRY
+Bulgaria,SOF,95673503,Sofia,AIRPORT
+Bulgaria,VAR,95673895,Varna,AIRPORT
+Bulgaria,BOJ,95673896,Bourgas,AIRPORT
+Bulgaria,PDV,128667840,Plovdiv,AIRPORT
+
+---------------------------------------------------------------------------
+markets.csv
+---------------------------------------------------------------------------
+CountryName,MarketCode
+Puerto Rico,PR
+Palestinian Territories,PS
+Portugal,PT
+Palau,PW
+Paraguay,PY
+Qatar,QA
+Principat d'Andorra,AD
+United Arab Emirates,AE
+Afghanistan,AF
+Antigua and Barbuda,AG
+Anguilla,AI
+Albania,AL
+Armenia,AM
+Angola,AO
+Antarctica,AQ
+Argentina,AR
+American Samoa,AS
+Austria,AT
+Reunion,RE
+Australia,AU
+Aruba,AW
+Azerbaijan,AZ
+România,RO
+Bosnia and Herzegovina,BA
+Barbados,BB
+Serbia,RS
+Bangladesh,BD
+Belgium,BE
+Russia,RU
+Burkina Faso,BF
+Bulgaria,BG
+Rwanda,RW
+Bahrain,BH
+Burundi,BI
+Benin,BJ
+Saint Barthelemy,BL
+Bermuda,BM
+Brunei,BN
+Bolivia,BO
+Saudi Arabia,SA
+Caribbean Netherlands,BQ
+Solomon Islands,SB
+Brasil,BR
+Seychelles,SC
+Bahamas,BS
+Sudan,SD
+Bhutan,BT
+Sweden,SE
+Singapore,SG
+Botswana,BW
+St. Helena,SH
+Slovenia,SI
+Belarus,BY
+Belize,BZ
+Slovakia,SK
+Sierra Leone,SL
+Senegal,SN
+Somalia,SO
+Canada,CA
+Suriname,SR
+Cocos (Keeling) Islands,CC
+South Sudan,SS
+DR Congo,CD
+Sao Tome and Principe,ST
+Central African Republic,CF
+El Salvador,SV
+Congo,CG
+Switzerland,CH
+St Maarten,SX
+Ivory Coast,CI
+Syria,SY
+Eswatini,SZ
+Cook Islands,CK
+Chile,CL
+Cameroon,CM
+China,CN
+Colombia,CO
+Costa Rica,CR
+Turks and Caicos Islands,TC
+Chad,TD
+Cuba,CU
+Cape Verde,CV
+Togo,TG
+Curacao,CW
+Thailand,TH
+Christmas Island,CX
+Cyprus,CY
+Tajikistan,TJ
+Czechia,CZ
+East Timor,TL
+Turkmenistan,TM
+Tunisia,TN
+Tonga,TO
+Türkiye,TR
+Trinidad and Tobago,TT
+Germany,DE
+Tuvalu,TV
+Taiwan,TW
+Djibouti,DJ
+Tanzania,TZ
+Denmark,DK
+Dominica,DM
+Dominican Republic,DO
+Ukraine,UA
+Uganda,UG
+Algeria,DZ
+United Kingdom,UK
+Ecuador,EC
+United States,US
+Estonia,EE
+Egypt,EG
+Uruguay,UY
+Uzbekistan,UZ
+Città del Vaticano,VA
+Eritrea,ER
+Saint Vincent and the Grenadines,VC
+Spain,ES
+Ethiopia,ET
+Venezuela,VE
+British Virgin Islands,VG
+US Virgin Islands,VI
+Vietnam,VN
+Vanuatu,VU
+Finland,FI
+Fiji,FJ
+Falkland Islands,FK
+Micronesia,FM
+Faroe Islands,FO
+France,FR
+Wallis and Futuna Islands,WF
+Gabon,GA
+Samoa,WS
+Grenada,GD
+Georgia,GE
+Guyane Française,GF
+Guernsey,GG
+Ghana,GH
+Gibraltar,GI
+Greenland,GL
+Gambia,GM
+Guinea,GN
+Guadeloupe,GP
+Equatorial Guinea,GQ
+Greece,GR
+South Georgia and the South Sandwich Islands,GS
+Guatemala,GT
+Guam,GU
+Guinea-Bissau,GW
+Guyana,GY
+Kosovo,XK
+Hong Kong,HK
+Honduras,HN
+Hrvatska,HR
+Haiti,HT
+Yemen,YE
+Hungary,HU
+Indonesia,ID
+Mayotte,YT
+Ireland,IE
+Israel,IL
+India,IN
+South Africa,ZA
+Iraq,IQ
+Iran,IR
+Iceland,IS
+Italia,IT
+Zambia,ZM
+Zimbabwe,ZW
+Jamaica,JM
+Jordan,JO
+Japan,JP
+Kenya,KE
+Kyrgyzstan,KG
+Cambodia,KH
+Kiribati,KI
+Comoros,KM
+Saint Kitts and Nevis,KN
+North Korea,KP
+South Korea,KR
+Kuwait,KW
+Cayman Islands,KY
+Kazakhstan,KZ
+Laos,LA
+Lebanon,LB
+Saint Lucia,LC
+Fürstentum Liechtenstein,LI
+Sri Lanka,LK
+Liberia,LR
+Lesotho,LS
+Lithuania,LT
+Luxembourg,LU
+Latvia,LV
+Libya,LY
+Morocco,MA
+Monaco,MC
+Moldova,MD
+Montenegro,ME
+Madagascar,MG
+Marshall Islands,MH
+Republic of Macedonia,MK
+Mali,ML
+Myanmar,MM
+Mongolia,MN
+Macau,MO
+Northern Mariana Islands,MP
+Martinique,MQ
+Mauritania,MR
+Montserrat,MS
+Malta,MT
+Mauritius,MU
+Maldives,MV
+Malawi,MW
+México,MX
+Malaysia,MY
+Mozambique,MZ
+Namibia,NA
+New Caledonia,NC
+Niger,NE
+Nigeria,NG
+Nicaragua,NI
+Nederland,NL
+Norge,NO
+Nepal,NP
+Nauru,NR
+Niue,NU
+New Zealand,NZ
+Oman,OM
+Panamá,PA
+Perú,PE
+French Polynesia,PF
+Papua New Guinea,PG
+Philippines,PH
+Pakistan,PK
+Polska,PL
+St. Pierre and Miquelon,PM
+        
+---------------------------------------------------------------------------
+setup.py
+---------------------------------------------------------------------------
+
+
+import re
+import os
+import codecs
+import pathlib
+from os import path
+from io import open
+from setuptools import setup, find_packages
+from pkg_resources import parse_requirements
+
+
+def read_requirements(path):
+    with open(path, "r") as f:
+        requirements = f.read().splitlines()
+        processed_requirements = []
+
+        for req in requirements:
+            # For git or other VCS links
+            if req.startswith("git+") or "@" in req:
+                pkg_name = re.search(r"(#egg=)([\w\-_]+)", req)
+                if pkg_name:
+                    processed_requirements.append(pkg_name.group(2))
+                else:
+                    # You may decide to raise an exception here,
+                    # if you want to ensure every VCS link has an #egg=<package_name> at the end
+                    continue
+            else:
+                processed_requirements.append(req)
+        return processed_requirements
+
+
+requirements = read_requirements("requirements.txt")
+here = path.abspath(path.dirname(__file__))
+
+with open(path.join(here, "README.md"), encoding="utf-8") as f:
+    long_description = f.read()
+
+# loading version from setup.py
+with codecs.open(
+    os.path.join(here, "template/__init__.py"), encoding="utf-8"
+) as init_file:
+    version_match = re.search(
+        r"^__version__ = ['\"]([^'\"]*)['\"]", init_file.read(), re.M
+    )
+    version_string = version_match.group(1)
+
+setup(
+    name="bittensor_subnet_template",  # TODO(developer): Change this value to your module subnet name.
+    version=version_string,
+    description="bittensor_subnet_template",  # TODO(developer): Change this value to your module subnet description.
+    long_description=long_description,
+    long_description_content_type="text/markdown",
+    url="https://github.com/opentensor/bittensor-subnet-template",  # TODO(developer): Change this url to your module subnet github url.
+    author="bittensor.com",  # TODO(developer): Change this value to your module subnet author name.
+    packages=find_packages(),
+    include_package_data=True,
+    author_email="",  # TODO(developer): Change this value to your module subnet author email.
+    license="MIT",
+    python_requires=">=3.8",
+    install_requires=requirements,
+    classifiers=[
+        "Development Status :: 3 - Alpha",
+        "Intended Audience :: Developers",
+        "Topic :: Software Development :: Build Tools",
+        # Pick your license as you wish
+        "License :: OSI Approved :: MIT License",
+        "Programming Language :: Python :: 3 :: Only",
+        "Programming Language :: Python :: 3.8",
+        "Programming Language :: Python :: 3.9",
+        "Programming Language :: Python :: 3.10",
+        "Topic :: Scientific/Engineering",
+        "Topic :: Scientific/Engineering :: Mathematics",
+        "Topic :: Scientific/Engineering :: Artificial Intelligence",
+        "Topic :: Software Development",
+        "Topic :: Software Development :: Libraries",
+        "Topic :: Software Development :: Libraries :: Python Modules",
+    ],
+)
+
+---------------------------------------------------------------------------
+requirements.txt
+---------------------------------------------------------------------------
+bittensor==9.5.0
+starlette>=0.30.0
+pydantic>=2
+rich>=13
+pytest>=8
+torch>=2
+numpy>=1
+setuptools>=68
+pandas>=2
+
+---------------------------------------------------------------------------
+template/protocol.py
+---------------------------------------------------------------------------
+import typing
+import bittensor as bt
+from bittensor import Synapse
+from pydantic import BaseModel, Field
+from typing import Optional, Literal, List
+
+# ----------------------------------------------------------------------
+# PROTOCOL: Validator ↔ Miner for Skyscanner “cheapest flight” queries
+# ----------------------------------------------------------------------
+
+class FlightSearchRequest(Synapse, BaseModel):
+    """
+    Sent by the validator to request flight options from a miner.
+    """
+    date: str = Field(
+        ...,
+        description="Departure date in YYYY-MM-DD format"
+    )
+    origin: str = Field(
+        ...,
+        description="Origin city or airport name"
+    )
+    originId: str = Field(
+        ...,
+        description="Skyscanner SkyId for the origin airport"
+    )
+    destination: str = Field(
+        ...,
+        description="Destination city or airport name"
+    )
+    destinationId: str = Field(
+        ...,
+        description="Skyscanner SkyId for the destination airport"
+    )
+    cabinClass: Literal['economy', 'premiumeconomy', 'business', 'first'] = Field(
+        default='economy',
+        description="Cabin class for the search"
+    )
+    adults: int = Field(
+        default=1,
+        ge=1,
+        description="Number of adult passengers (≥1)"
+    )
+    children: int = Field(
+        default=0,
+        ge=0,
+        description="Number of child passengers"
+    )
+    infants: int = Field(
+        default=0,
+        ge=0,
+        description="Number of infant passengers"
+    )
+    locale: str = Field(
+        default='en-US',
+        description="Locale for displayed results"
+    )
+    market: str = Field(
+        default='US',
+        description="Market/country code for pricing"
+    )
+    currency: str = Field(
+        default='USD',
+        description="Currency code for price values"
+    )
+    limit: Optional[int] = Field(
+        default=1,
+        ge=1,
+        description="Maximum number of flight options to return"
+    )
+    non_stop: Optional[bool] = Field(
+        default=False,
+        description="If true, only include direct flights"
+    )
+
+    def deserialize(self) -> None:
+        """
+        Hook after deserialization; you could validate date formats here
+        or convert to a datetime.date if you prefer.
+        """
+        pass
+
+
+class FlightSearchResponse(Synapse, BaseModel):
+    """
+    Returned by the miner with details for one flight option.
+    If you set limit>1, the validator can collect multiple of these.
+    """
+    market: str = Field(
+        ...,
+        description="Market/country code for pricing"
+    )
+    category: Literal['Cheapest', 'Fastest', 'Best'] = Field(
+        ...,
+        description="Type of flight option"
+    )
+    price: float = Field(
+        ...,
+        description="Total price amount"
+    )
+    currency: str = Field(
+        ...,
+        description="Currency code for the price"
+    )
+    departure_time: str = Field(
+        ...,
+        description="Departure timestamp (ISO 8601)"
+    )
+    arrival_time: str = Field(
+        ...,
+        description="Arrival timestamp (ISO 8601)"
+    )
+    departure_city: str = Field(
+        ...,
+        description="Name of departure city"
+    )
+    arrival_city: str = Field(
+        ...,
+        description="Name of arrival city"
+    )
+    stops: int = Field(
+        ...,
+        ge=0,
+        description="Number of stops (0 = direct)"
+    )
+    carrier: str = Field(
+        ...,
+        description="Airline carrier name"
+    )
+    duration_days: float = Field(
+        ...,
+        gt=0,
+        description="Total trip duration in days"
+    )
+
+    def deserialize(self) -> None:
+        """
+        Hook after deserialization; you could parse the timestamps
+        into datetime objects here.
+        """
+        pass
+
+
+class FlightSearchBatchRequest(Synapse, BaseModel):
+    """
+    Batch of flight search queries, each with potentially different market settings.
+    """
+    queries: List[FlightSearchRequest] = Field(
+        ..., description="List of individual FlightSearchRequest objects"
+    )
+
+    def deserialize(self) -> None:
+        pass
+
+
+class FlightSearchBatchResponse(Synapse, BaseModel):
+    """
+    Batch response containing, for each query, a list of FlightSearchResponse objects.
+    """
+    responses: List[List[FlightSearchResponse]] = Field(
+        ..., description="List of response lists corresponding to each query"
+    )
+
+    def deserialize(self) -> None:
+        pass
+
+class Dummy(bt.Synapse):
+    """
+    A simple dummy protocol representation which uses bt.Synapse as its base.
+    This protocol helps in handling dummy request and response communication between
+    the miner and the validator.
+
+    Attributes:
+    - dummy_input: An integer value representing the input request sent by the validator.
+    - dummy_output: An optional integer value which, when filled, represents the response from the miner.
+    """
+
+    # Required request input, filled by sending dendrite caller.
+    dummy_input: int
+
+    # Optional request output, filled by receiving axon.
+    dummy_output: typing.Optional[int] = None
+
+    def deserialize(self) -> int:
+        """
+        Deserialize the dummy output. This method retrieves the response from
+        the miner in the form of dummy_output, deserializes it and returns it
+        as the output of the dendrite.query() call.
+
+        Returns:
+        - int: The deserialized response, which in this case is the value of dummy_output.
+
+        Example:
+        Assuming a Dummy instance has a dummy_output value of 5:
+        >>> dummy_instance = Dummy(dummy_input=4)
+        >>> dummy_instance.dummy_output = 5
+        >>> dummy_instance.deserialize()
+        5
+        """
+        return self.dummy_output
+
+---------------------------------------------------------------------------
+template/__init__.py
+---------------------------------------------------------------------------
+
+
+# TODO(developer): Change this value when updating your code base.
+# Define the version of the template module.
+__version__ = "0.0.0"
+version_split = __version__.split(".")
+__spec_version__ = (
+    (1000 * int(version_split[0]))
+    + (10 * int(version_split[1]))
+    + (1 * int(version_split[2]))
+)
+
+# Import all submodules.
+from . import protocol
+from . import base
+from . import validator
+from . import api
+
+---------------------------------------------------------------------------
+template/mock.py
+---------------------------------------------------------------------------
+import time
+
+import asyncio
+import random
+import bittensor as bt
+
+from typing import List
+
+
+class MockSubtensor(bt.MockSubtensor):
+    def __init__(self, netuid, n=16, wallet=None, network="mock"):
+        super().__init__(network=network)
+
+        if not self.subnet_exists(netuid):
+            self.create_subnet(netuid)
+
+        # Register ourself (the validator) as a neuron at uid=0
+        if wallet is not None:
+            self.force_register_neuron(
+                netuid=netuid,
+                hotkey=wallet.hotkey.ss58_address,
+                coldkey=wallet.coldkey.ss58_address,
+                balance=100000,
+                stake=100000,
+            )
+
+        # Register n mock neurons who will be miners
+        for i in range(1, n + 1):
+            self.force_register_neuron(
+                netuid=netuid,
+                hotkey=f"miner-hotkey-{i}",
+                coldkey="mock-coldkey",
+                balance=100000,
+                stake=100000,
+            )
+
+
+class MockMetagraph(bt.metagraph):
+    def __init__(self, netuid=1, network="mock", subtensor=None):
+        super().__init__(netuid=netuid, network=network, sync=False)
+
+        if subtensor is not None:
+            self.subtensor = subtensor
+        self.sync(subtensor=subtensor)
+
+        for axon in self.axons:
+            axon.ip = "127.0.0.0"
+            axon.port = 8091
+
+        bt.logging.info(f"Metagraph: {self}")
+        bt.logging.info(f"Axons: {self.axons}")
+
+
+class MockDendrite(bt.dendrite):
+    """
+    Replaces a real bittensor network request with a mock request that just returns some static response for all axons that are passed and adds some random delay.
+    """
+
+    def __init__(self, wallet):
+        super().__init__(wallet)
+
+    async def forward(
+        self,
+        axons: List[bt.axon],
+        synapse: bt.Synapse = bt.Synapse(),
+        timeout: float = 12,
+        deserialize: bool = True,
+        run_async: bool = True,
+        streaming: bool = False,
+    ):
+        if streaming:
+            raise NotImplementedError("Streaming not implemented yet.")
+
+        async def query_all_axons(streaming: bool):
+            """Queries all axons for responses."""
+
+            async def single_axon_response(i, axon):
+                """Queries a single axon for a response."""
+
+                start_time = time.time()
+                s = synapse.copy()
+                # Attach some more required data so it looks real
+                s = self.preprocess_synapse_for_request(axon, s, timeout)
+                # We just want to mock the response, so we'll just fill in some data
+                process_time = random.random()
+                if process_time < timeout:
+                    s.dendrite.process_time = str(time.time() - start_time)
+                    # Update the status code and status message of the dendrite to match the axon
+                    # TODO (developer): replace with your own expected synapse data
+                    s.dummy_output = s.dummy_input * 2
+                    s.dendrite.status_code = 200
+                    s.dendrite.status_message = "OK"
+                    synapse.dendrite.process_time = str(process_time)
+                else:
+                    s.dummy_output = 0
+                    s.dendrite.status_code = 408
+                    s.dendrite.status_message = "Timeout"
+                    synapse.dendrite.process_time = str(timeout)
+
+                # Return the updated synapse object after deserializing if requested
+                if deserialize:
+                    return s.deserialize()
+                else:
+                    return s
+
+            return await asyncio.gather(
+                *(
+                    single_axon_response(i, target_axon)
+                    for i, target_axon in enumerate(axons)
+                )
+            )
+
+        return await query_all_axons(streaming)
+
+    def __str__(self) -> str:
+        """
+        Returns a string representation of the Dendrite object.
+
+        Returns:
+            str: The string representation of the Dendrite object in the format "dendrite(<user_wallet_address>)".
+        """
+        return "MockDendrite({})".format(self.keypair.ss58_address)
+
+---------------------------------------------------------------------------
+neurons/validator.py
+---------------------------------------------------------------------------
+import time
+import pandas as pd
+import bittensor as bt
+import random
+import numpy as np
+from typing import List
+import datetime
+
+from template.base.validator import BaseValidatorNeuron
+from template.protocol import (
+    FlightSearchRequest,
+    FlightSearchBatchRequest,
+    FlightSearchBatchResponse,
+    FlightSearchResponse
+)
+from template.utils.uids import get_random_uids
+from template.utils.misc import generate_random_date
+
+class Validator(BaseValidatorNeuron):
+    """
+    Your validator neuron class for batched flight search.
+    Implements:
+    - Generating multiple flight search queries for different markets
+    - Querying miners with a batch request
+    - Gathering all responses
+    - Rewarding miners
+    - Updating and saving scores
+    """
+
+
+    def __init__(self, config=None):
+        super().__init__(config=config)
+        bt.logging.info("Loading validator state")
+        self.load_state()
+
+        # Load markets list
+        markets_file = self.config.get('markets_file', '/root/subnet_test/bittensor-subnet-template/markets.csv')
+        try:
+            df_markets = pd.read_csv(markets_file)
+            self.markets = df_markets['MarketCode'].dropna().tolist()
+        except Exception as e:
+            bt.logging.error(f"Failed to load markets: {e}")
+            self.markets = []
+
+        # Load airports list
+        airports_file = self.config.get('airports_file', '/root/subnet_test/bittensor-subnet-template/total_airports.csv')
+        try:
+            df_airports = pd.read_csv(airports_file)
+            # Filter only airports
+            self.airports = df_airports[df_airports['entityType']=='AIRPORT'].to_dict('records')
+        except Exception as e:
+            bt.logging.error(f"Failed to load airports: {e}")
+            self.airports = []
+
+        # Determine batch size
+        self.batch_size = min(len(self.markets), self.config.get('batch_size', 10))
+
+    async def forward(self, synapse: FlightSearchRequest) -> List[FlightSearchResponse]:
+        """
+        Batch and dispatch flight search queries to miners.
+        """
+        # 1. Generate batch queries for different markets
+        queries = []
+        for _ in range(self.batch_size):
+            # Pick random market and two distinct airports
+            market = random.choice(self.markets)
+            origin, destination = random.sample(self.airports, 2)
+            _, random_date = generate_random_date() 
+
+            q = FlightSearchRequest(
+                date=random_date,
+                origin=origin['skyId'],
+                originId=origin['entityId'],
+                destination=destination['skyId'],
+                destinationId=destination['entityId'],
+                cabinClass=synapse.cabinClass,
+                adults=synapse.adults,
+                children=synapse.children,
+                infants=synapse.infants,
+                locale=synapse.locale,
+                market=market,
+                currency=synapse.currency,
+                limit=1,
+                non_stop=synapse.non_stop,
+            )
+            queries.append(q)
+        batch = FlightSearchBatchRequest(queries=queries)
+        bt.logging.info(f"Dispatching batch of {len(queries)}")
+
+        # 2. Select miners and send batch
+        miner_uids = get_random_uids(self, k=self.batch_size)
+        axons = [self.metagraph.axons[uid] for uid in miner_uids]
+        batch_responses: List[FlightSearchBatchResponse] = await self.dendrite(
+            axons=axons,
+            synapse=batch,
+            deserialize=True
+        )
+        bt.logging.info(f"Received {len(batch_responses)} batch responses")
+
+        # 3. Collect all individual responses
+        all_responses: List[FlightSearchResponse] = []
+        for batch_resp in batch_responses:
+            for resp_list in batch_resp.responses:
+                all_responses.extend(resp_list)
+
+        if not all_responses:
+            bt.logging.warning("No flight options returned from miners")
+            return []
+
+        # 4. Sort and reward
+        all_responses.sort(key=lambda r: r.price)
+        best_price = all_responses[0].price
+        for resp in all_responses:
+            profit = max(0.0, best_price - resp.price)
+            bt.logging.info(f"Rewarding miner {resp.uid} profit {profit}")
+            self.backpropagate(resp, profit)
+        self.save_state()
+
+        # 5. Return top results (based on original request limit)
+        return all_responses[:synapse.limit]
+
+    def backpropagate(self, synapse: FlightSearchResponse, profit: float) -> None:
+        bt.logging.info(f"Backpropagating profit {profit} for synapse: {synapse}")
+        super().backpropagate(synapse, profit)
+
+if __name__ == "__main__":
+    with Validator() as validator:
+        while True:
+            bt.logging.info(f"Validator running... {time.time()}")
+            time.sleep(5)
+
+---------------------------------------------------------------------------
+neurons/__init__.py
+---------------------------------------------------------------------------
+
+---------------------------------------------------------------------------
+neurons/miner.py
+---------------------------------------------------------------------------
+import time
+import typing
+import bittensor as bt
+import template
+from template.base.miner import BaseMinerNeuron
+
+
+class Miner(BaseMinerNeuron):
+    """
+    Your miner neuron class. You should use this class to define your miner's behavior. In particular, you should replace the forward function with your own logic. You may also want to override the blacklist and priority functions according to your needs.
+
+    This class inherits from the BaseMinerNeuron class, which in turn inherits from BaseNeuron. The BaseNeuron class takes care of routine tasks such as setting up wallet, subtensor, metagraph, logging directory, parsing config, etc. You can override any of the methods in BaseNeuron if you need to customize the behavior.
+
+    This class provides reasonable default behavior for a miner such as blacklisting unrecognized hotkeys, prioritizing requests based on stake, and forwarding requests to the forward function. If you need to define custom
+    """
+
+    def __init__(self, config=None):
+        super(Miner, self).__init__(config=config)
+
+        # TODO(developer): Anything specific to your use case you can do here
+
+    async def forward(
+        self, synapse: template.protocol.Dummy
+    ) -> template.protocol.Dummy:
+        """
+        Processes the incoming 'Dummy' synapse by performing a predefined operation on the input data.
+        This method should be replaced with actual logic relevant to the miner's purpose.
+
+        Args:
+            synapse (template.protocol.Dummy): The synapse object containing the 'dummy_input' data.
+
+        Returns:
+            template.protocol.Dummy: The synapse object with the 'dummy_output' field set to twice the 'dummy_input' value.
+
+        The 'forward' function is a placeholder and should be overridden with logic that is appropriate for
+        the miner's intended operation. This method demonstrates a basic transformation of input data.
+        """
+        # TODO(developer): Replace with actual implementation logic.
+        synapse.dummy_output = synapse.dummy_input * 2
+        return synapse
+
+    async def blacklist(
+        self, synapse: template.protocol.Dummy
+    ) -> typing.Tuple[bool, str]:
+        """
+        Determines whether an incoming request should be blacklisted and thus ignored. Your implementation should
+        define the logic for blacklisting requests based on your needs and desired security parameters.
+
+        Blacklist runs before the synapse data has been deserialized (i.e. before synapse.data is available).
+        The synapse is instead contracted via the headers of the request. It is important to blacklist
+        requests before they are deserialized to avoid wasting resources on requests that will be ignored.
+
+        Args:
+            synapse (template.protocol.Dummy): A synapse object constructed from the headers of the incoming request.
+
+        Returns:
+            Tuple[bool, str]: A tuple containing a boolean indicating whether the synapse's hotkey is blacklisted,
+                            and a string providing the reason for the decision.
+
+        This function is a security measure to prevent resource wastage on undesired requests. It should be enhanced
+        to include checks against the metagraph for entity registration, validator status, and sufficient stake
+        before deserialization of synapse data to minimize processing overhead.
+
+        Example blacklist logic:
+        - Reject if the hotkey is not a registered entity within the metagraph.
+        - Consider blacklisting entities that are not validators or have insufficient stake.
+
+        In practice it would be wise to blacklist requests from entities that are not validators, or do not have
+        enough stake. This can be checked via metagraph.S and metagraph.validator_permit. You can always attain
+        the uid of the sender via a metagraph.hotkeys.index( synapse.dendrite.hotkey ) call.
+
+        Otherwise, allow the request to be processed further.
+        """
+
+        if synapse.dendrite is None or synapse.dendrite.hotkey is None:
+            bt.logging.warning(
+                "Received a request without a dendrite or hotkey."
+            )
+            return True, "Missing dendrite or hotkey"
+
+        # TODO(developer): Define how miners should blacklist requests.
+        uid = self.metagraph.hotkeys.index(synapse.dendrite.hotkey)
+        if (
+            not self.config.blacklist.allow_non_registered
+            and synapse.dendrite.hotkey not in self.metagraph.hotkeys
+        ):
+            # Ignore requests from un-registered entities.
+            bt.logging.trace(
+                f"Blacklisting un-registered hotkey {synapse.dendrite.hotkey}"
+            )
+            return True, "Unrecognized hotkey"
+
+        if self.config.blacklist.force_validator_permit:
+            # If the config is set to force validator permit, then we should only allow requests from validators.
+            if not self.metagraph.validator_permit[uid]:
+                bt.logging.warning(
+                    f"Blacklisting a request from non-validator hotkey {synapse.dendrite.hotkey}"
+                )
+                return True, "Non-validator hotkey"
+
+        bt.logging.trace(
+            f"Not Blacklisting recognized hotkey {synapse.dendrite.hotkey}"
+        )
+        return False, "Hotkey recognized!"
+
+    async def priority(self, synapse: template.protocol.Dummy) -> float:
+        """
+        The priority function determines the order in which requests are handled. More valuable or higher-priority
+        requests are processed before others. You should design your own priority mechanism with care.
+
+        This implementation assigns priority to incoming requests based on the calling entity's stake in the metagraph.
+
+        Args:
+            synapse (template.protocol.Dummy): The synapse object that contains metadata about the incoming request.
+
+        Returns:
+            float: A priority score derived from the stake of the calling entity.
+
+        Miners may receive messages from multiple entities at once. This function determines which request should be
+        processed first. Higher values indicate that the request should be processed first. Lower values indicate
+        that the request should be processed later.
+
+        Example priority logic:
+        - A higher stake results in a higher priority value.
+        """
+        if synapse.dendrite is None or synapse.dendrite.hotkey is None:
+            bt.logging.warning(
+                "Received a request without a dendrite or hotkey."
+            )
+            return 0.0
+
+        # TODO(developer): Define how miners should prioritize requests.
+        caller_uid = self.metagraph.hotkeys.index(
+            synapse.dendrite.hotkey
+        )  # Get the caller index.
+        priority = float(
+            self.metagraph.S[caller_uid]
+        )  # Return the stake as the priority.
+        bt.logging.trace(
+            f"Prioritizing {synapse.dendrite.hotkey} with value: {priority}"
+        )
+        return priority
+
+
+# This is the main function, which runs the miner.
+if __name__ == "__main__":
+    with Miner() as miner:
+        while True:
+            bt.logging.info(f"Miner running... {time.time()}")
+            time.sleep(5)
+
+---------------------------------------------------------------------------
+bittensor_subnet_template.egg-info/SOURCES.txt
+---------------------------------------------------------------------------
+LICENSE
+README.md
+setup.py
+bittensor_subnet_template.egg-info/PKG-INFO
+bittensor_subnet_template.egg-info/SOURCES.txt
+bittensor_subnet_template.egg-info/dependency_links.txt
+bittensor_subnet_template.egg-info/requires.txt
+bittensor_subnet_template.egg-info/top_level.txt
+neurons/__init__.py
+neurons/miner.py
+neurons/validator.py
+template/__init__.py
+template/mock.py
+template/protocol.py
+template/api/__init__.py
+template/api/dummy.py
+template/api/get_query_axons.py
+template/base/__init__.py
+template/base/miner.py
+template/base/neuron.py
+template/base/validator.py
+template/base/utils/__init__.py
+template/base/utils/weight_utils.py
+template/utils/__init__.py
+template/utils/config.py
+template/utils/logging.py
+template/utils/misc.py
+template/utils/uids.py
+template/validator/__init__.py
+template/validator/forward.py
+template/validator/reward.py
+---------------------------------------------------------------------------
+bittensor_subnet_template.egg-info/dependency_links.txt
+---------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------
+bittensor_subnet_template.egg-info/top_level.txt
+---------------------------------------------------------------------------
+neurons
+template
+
+---------------------------------------------------------------------------
+bittensor_subnet_template.egg-info/requires.txt
+---------------------------------------------------------------------------
+bittensor==9.5.0
+starlette>=0.30.0
+pydantic>=2
+rich>=13
+pytest>=8
+torch>=2
+numpy>=1
+setuptools>=68
+pandas>=2
+
+---------------------------------------------------------------------------
+template/base/neuron.py
+---------------------------------------------------------------------------
+# The MIT License (MIT)
+# Copyright © 2023 Yuma Rao
+
+# Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated
+# documentation files (the “Software”), to deal in the Software without restriction, including without limitation
+# the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software,
+# and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+# The above copyright notice and this permission notice shall be included in all copies or substantial portions of
+# the Software.
+
+# THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+# THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
+# THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+# OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+# DEALINGS IN THE SOFTWARE.
+
+import copy
+import typing
+
+import bittensor as bt
+
+from abc import ABC, abstractmethod
+
+# Sync calls set weights and also resyncs the metagraph.
+from template.utils.config import check_config, add_args, config
+from template.utils.misc import ttl_get_block
+from template import __spec_version__ as spec_version
+from template.mock import MockSubtensor, MockMetagraph
+
+
+class BaseNeuron(ABC):
+    """
+    Base class for Bittensor miners. This class is abstract and should be inherited by a subclass. It contains the core logic for all neurons; validators and miners.
+
+    In addition to creating a wallet, subtensor, and metagraph, this class also handles the synchronization of the network state via a basic checkpointing mechanism based on epoch length.
+    """
+
+    neuron_type: str = "BaseNeuron"
+
+    @classmethod
+    def check_config(cls, config: "bt.Config"):
+        check_config(cls, config)
+
+    @classmethod
+    def add_args(cls, parser):
+        add_args(cls, parser)
+
+    @classmethod
+    def config(cls):
+        return config(cls)
+
+    subtensor: "bt.subtensor"
+    wallet: "bt.wallet"
+    metagraph: "bt.metagraph"
+    spec_version: int = spec_version
+
+    @property
+    def block(self):
+        return ttl_get_block(self)
+
+    def __init__(self, config=None):
+        base_config = copy.deepcopy(config or BaseNeuron.config())
+        self.config = self.config()
+        self.config.merge(base_config)
+        self.check_config(self.config)
+
+        # Set up logging with the provided configuration.
+        bt.logging.set_config(config=self.config.logging)
+
+        # If a gpu is required, set the device to cuda:N (e.g. cuda:0)
+        self.device = self.config.neuron.device
+
+        # Log the configuration for reference.
+        bt.logging.info(self.config)
+
+        # Build Bittensor objects
+        # These are core Bittensor classes to interact with the network.
+        bt.logging.info("Setting up bittensor objects.")
+
+        # The wallet holds the cryptographic key pairs for the miner.
+        if self.config.mock:
+            self.wallet = bt.MockWallet(config=self.config)
+            self.subtensor = MockSubtensor(
+                self.config.netuid, wallet=self.wallet
+            )
+            self.metagraph = MockMetagraph(
+                self.config.netuid, subtensor=self.subtensor
+            )
+        else:
+            self.wallet = bt.wallet(config=self.config)
+            self.subtensor = bt.subtensor(config=self.config)
+            self.metagraph = self.subtensor.metagraph(self.config.netuid)
+
+        bt.logging.info(f"Wallet: {self.wallet}")
+        bt.logging.info(f"Subtensor: {self.subtensor}")
+        bt.logging.info(f"Metagraph: {self.metagraph}")
+
+        # Check if the miner is registered on the Bittensor network before proceeding further.
+        self.check_registered()
+
+        # Each miner gets a unique identity (UID) in the network for differentiation.
+        self.uid = self.metagraph.hotkeys.index(
+            self.wallet.hotkey.ss58_address
+        )
+        bt.logging.info(
+            f"Running neuron on subnet: {self.config.netuid} with uid {self.uid} using network: {self.subtensor.chain_endpoint}"
+        )
+        self.step = 0
+
+    @abstractmethod
+    async def forward(self, synapse: bt.Synapse) -> bt.Synapse:
+        ...
+
+    @abstractmethod
+    def run(self):
+        ...
+
+    def sync(self):
+        """
+        Wrapper for synchronizing the state of the network for the given miner or validator.
+        """
+        # Ensure miner or validator hotkey is still registered on the network.
+        self.check_registered()
+
+        if self.should_sync_metagraph():
+            self.resync_metagraph()
+
+        if self.should_set_weights():
+            self.set_weights()
+
+        # Always save state.
+        self.save_state()
+
+    def check_registered(self):
+        # --- Check for registration.
+        if not self.subtensor.is_hotkey_registered(
+            netuid=self.config.netuid,
+            hotkey_ss58=self.wallet.hotkey.ss58_address,
+        ):
+            bt.logging.error(
+                f"Wallet: {self.wallet} is not registered on netuid {self.config.netuid}."
+                f" Please register the hotkey using `btcli subnets register` before trying again"
+            )
+            exit()
+
+    def should_sync_metagraph(self):
+        """
+        Check if enough epoch blocks have elapsed since the last checkpoint to sync.
+        """
+        return (
+            self.block - self.metagraph.last_update[self.uid]
+        ) > self.config.neuron.epoch_length
+
+    def should_set_weights(self) -> bool:
+        # Don't set weights on initialization.
+        if self.step == 0:
+            return False
+
+        # Check if enough epoch blocks have elapsed since the last epoch.
+        if self.config.neuron.disable_set_weights:
+            return False
+
+        # Define appropriate logic for when set weights.
+        return (
+            (self.block - self.metagraph.last_update[self.uid])
+            > self.config.neuron.epoch_length
+            and self.neuron_type != "MinerNeuron"
+        )  # don't set weights if you're a miner
+
+    def save_state(self):
+        bt.logging.trace(
+            "save_state() not implemented for this neuron. You can implement this function to save model checkpoints or other useful data."
+        )
+
+    def load_state(self):
+        bt.logging.trace(
+            "load_state() not implemented for this neuron. You can implement this function to load model checkpoints or other useful data."
+        )
+
+---------------------------------------------------------------------------
+template/base/validator.py
+---------------------------------------------------------------------------
+
+
+
+import copy
+import numpy as np
+import asyncio
+import argparse
+import threading
+import bittensor as bt
+
+from typing import List, Union
+from traceback import print_exception
+
+from template.base.neuron import BaseNeuron
+from template.base.utils.weight_utils import (
+    process_weights_for_netuid,
+    convert_weights_and_uids_for_emit,
+)  # TODO: Replace when bittensor switches to numpy
+from template.mock import MockDendrite
+from template.utils.config import add_validator_args
+
+
+class BaseValidatorNeuron(BaseNeuron):
+    """
+    Base class for Bittensor validators. Your validator should inherit from this class.
+    """
+
+    neuron_type: str = "ValidatorNeuron"
+
+    @classmethod
+    def add_args(cls, parser: argparse.ArgumentParser):
+        super().add_args(parser)
+        add_validator_args(cls, parser)
+
+    def __init__(self, config=None):
+        super().__init__(config=config)
+
+        # Save a copy of the hotkeys to local memory.
+        self.hotkeys = copy.deepcopy(self.metagraph.hotkeys)
+
+        # Dendrite lets us send messages to other nodes (axons) in the network.
+        if self.config.mock:
+            self.dendrite = MockDendrite(wallet=self.wallet)
+        else:
+            self.dendrite = bt.dendrite(wallet=self.wallet)
+        bt.logging.info(f"Dendrite: {self.dendrite}")
+
+        # Set up initial scoring weights for validation
+        bt.logging.info("Building validation weights.")
+        self.scores = np.zeros(self.metagraph.n, dtype=np.float32)
+
+        # Init sync with the network. Updates the metagraph.
+        self.sync()
+
+        # Serve axon to enable external connections.
+        if not self.config.neuron.axon_off:
+            self.serve_axon()
+        else:
+            bt.logging.warning("axon off, not serving ip to chain.")
+
+        # Create asyncio event loop to manage async tasks.
+        self.loop = asyncio.get_event_loop()
+
+        # Instantiate runners
+        self.should_exit: bool = False
+        self.is_running: bool = False
+        self.thread: Union[threading.Thread, None] = None
+        self.lock = asyncio.Lock()
+
+    def serve_axon(self):
+        """Serve axon to enable external connections."""
+
+        bt.logging.info("serving ip to chain...")
+        try:
+            self.axon = bt.axon(wallet=self.wallet, config=self.config)
+
+            try:
+                self.subtensor.serve_axon(
+                    netuid=self.config.netuid,
+                    axon=self.axon,
+                )
+                bt.logging.info(
+                    f"Running validator {self.axon} on network: {self.config.subtensor.chain_endpoint} with netuid: {self.config.netuid}"
+                )
+            except Exception as e:
+                bt.logging.error(f"Failed to serve Axon with exception: {e}")
+                pass
+
+        except Exception as e:
+            bt.logging.error(
+                f"Failed to create Axon initialize with exception: {e}"
+            )
+            pass
+
+    async def concurrent_forward(self):
+        coroutines = [
+            self.forward()
+            for _ in range(self.config.neuron.num_concurrent_forwards)
+        ]
+        await asyncio.gather(*coroutines)
+
+    def run(self):
+        """
+        Initiates and manages the main loop for the miner on the Bittensor network. The main loop handles graceful shutdown on keyboard interrupts and logs unforeseen errors.
+
+        This function performs the following primary tasks:
+        1. Check for registration on the Bittensor network.
+        2. Continuously forwards queries to the miners on the network, rewarding their responses and updating the scores accordingly.
+        3. Periodically resynchronizes with the chain; updating the metagraph with the latest network state and setting weights.
+
+        The essence of the validator's operations is in the forward function, which is called every step. The forward function is responsible for querying the network and scoring the responses.
+
+        Note:
+            - The function leverages the global configurations set during the initialization of the miner.
+            - The miner's axon serves as its interface to the Bittensor network, handling incoming and outgoing requests.
+
+        Raises:
+            KeyboardInterrupt: If the miner is stopped by a manual interruption.
+            Exception: For unforeseen errors during the miner's operation, which are logged for diagnosis.
+        """
+
+        # Check that validator is registered on the network.
+        self.sync()
+
+        bt.logging.info(f"Validator starting at block: {self.block}")
+
+        # This loop maintains the validator's operations until intentionally stopped.
+        try:
+            while True:
+                bt.logging.info(f"step({self.step}) block({self.block})")
+
+                # Run multiple forwards concurrently.
+                self.loop.run_until_complete(self.concurrent_forward())
+
+                # Check if we should exit.
+                if self.should_exit:
+                    break
+
+                # Sync metagraph and potentially set weights.
+                self.sync()
+
+                self.step += 1
+
+        # If someone intentionally stops the validator, it'll safely terminate operations.
+        except KeyboardInterrupt:
+            self.axon.stop()
+            bt.logging.success("Validator killed by keyboard interrupt.")
+            exit()
+
+        # In case of unforeseen errors, the validator will log the error and continue operations.
+        except Exception as err:
+            bt.logging.error(f"Error during validation: {str(err)}")
+            bt.logging.debug(
+                str(print_exception(type(err), err, err.__traceback__))
+            )
+
+    def run_in_background_thread(self):
+        """
+        Starts the validator's operations in a background thread upon entering the context.
+        This method facilitates the use of the validator in a 'with' statement.
+        """
+        if not self.is_running:
+            bt.logging.debug("Starting validator in background thread.")
+            self.should_exit = False
+            self.thread = threading.Thread(target=self.run, daemon=True)
+            self.thread.start()
+            self.is_running = True
+            bt.logging.debug("Started")
+
+    def stop_run_thread(self):
+        """
+        Stops the validator's operations that are running in the background thread.
+        """
+        if self.is_running:
+            bt.logging.debug("Stopping validator in background thread.")
+            self.should_exit = True
+            self.thread.join(5)
+            self.is_running = False
+            bt.logging.debug("Stopped")
+
+    def __enter__(self):
+        self.run_in_background_thread()
+        return self
+
+    def __exit__(self, exc_type, exc_value, traceback):
+        """
+        Stops the validator's background operations upon exiting the context.
+        This method facilitates the use of the validator in a 'with' statement.
+
+        Args:
+            exc_type: The type of the exception that caused the context to be exited.
+                      None if the context was exited without an exception.
+            exc_value: The instance of the exception that caused the context to be exited.
+                       None if the context was exited without an exception.
+            traceback: A traceback object encoding the stack trace.
+                       None if the context was exited without an exception.
+        """
+        if self.is_running:
+            bt.logging.debug("Stopping validator in background thread.")
+            self.should_exit = True
+            self.thread.join(5)
+            self.is_running = False
+            bt.logging.debug("Stopped")
+
+    def set_weights(self):
+        """
+        Sets the validator weights to the metagraph hotkeys based on the scores it has received from the miners. The weights determine the trust and incentive level the validator assigns to miner nodes on the network.
+        """
+
+        # Check if self.scores contains any NaN values and log a warning if it does.
+        if np.isnan(self.scores).any():
+            bt.logging.warning(
+                f"Scores contain NaN values. This may be due to a lack of responses from miners, or a bug in your reward functions."
+            )
+
+        # Calculate the average reward for each uid across non-zero values.
+        # Replace any NaN values with 0.
+        # Compute the norm of the scores
+        norm = np.linalg.norm(self.scores, ord=1, axis=0, keepdims=True)
+
+        # Check if the norm is zero or contains NaN values
+        if np.any(norm == 0) or np.isnan(norm).any():
+            norm = np.ones_like(norm)  # Avoid division by zero or NaN
+
+        # Compute raw_weights safely
+        raw_weights = self.scores / norm
+
+        bt.logging.debug("raw_weights", raw_weights)
+        bt.logging.debug("raw_weight_uids", str(self.metagraph.uids.tolist()))
+        # Process the raw weights to final_weights via subtensor limitations.
+        (
+            processed_weight_uids,
+            processed_weights,
+        ) = process_weights_for_netuid(
+            uids=self.metagraph.uids,
+            weights=raw_weights,
+            netuid=self.config.netuid,
+            subtensor=self.subtensor,
+            metagraph=self.metagraph,
+        )
+        bt.logging.debug("processed_weights", processed_weights)
+        bt.logging.debug("processed_weight_uids", processed_weight_uids)
+
+        # Convert to uint16 weights and uids.
+        (
+            uint_uids,
+            uint_weights,
+        ) = convert_weights_and_uids_for_emit(
+            uids=processed_weight_uids, weights=processed_weights
+        )
+        bt.logging.debug("uint_weights", uint_weights)
+        bt.logging.debug("uint_uids", uint_uids)
+
+        # Set the weights on chain via our subtensor connection.
+        result, msg = self.subtensor.set_weights(
+            wallet=self.wallet,
+            netuid=self.config.netuid,
+            uids=uint_uids,
+            weights=uint_weights,
+            wait_for_finalization=False,
+            wait_for_inclusion=False,
+            version_key=self.spec_version,
+        )
+        if result is True:
+            bt.logging.info("set_weights on chain successfully!")
+        else:
+            bt.logging.error("set_weights failed", msg)
+
+    def resync_metagraph(self):
+        """Resyncs the metagraph and updates the hotkeys and moving averages based on the new metagraph."""
+        bt.logging.info("resync_metagraph()")
+
+        # Copies state of metagraph before syncing.
+        previous_metagraph = copy.deepcopy(self.metagraph)
+
+        # Sync the metagraph.
+        self.metagraph.sync(subtensor=self.subtensor)
+
+        # Check if the metagraph axon info has changed.
+        if previous_metagraph.axons == self.metagraph.axons:
+            return
+
+        bt.logging.info(
+            "Metagraph updated, re-syncing hotkeys, dendrite pool and moving averages"
+        )
+        # Zero out all hotkeys that have been replaced.
+        for uid, hotkey in enumerate(self.hotkeys):
+            if hotkey != self.metagraph.hotkeys[uid]:
+                self.scores[uid] = 0  # hotkey has been replaced
+
+        # Check to see if the metagraph has changed size.
+        # If so, we need to add new hotkeys and moving averages.
+        if len(self.hotkeys) < len(self.metagraph.hotkeys):
+            # Update the size of the moving average scores.
+            new_moving_average = np.zeros((self.metagraph.n))
+            min_len = min(len(self.hotkeys), len(self.scores))
+            new_moving_average[:min_len] = self.scores[:min_len]
+            self.scores = new_moving_average
+
+        # Update the hotkeys.
+        self.hotkeys = copy.deepcopy(self.metagraph.hotkeys)
+
+    def update_scores(self, rewards: np.ndarray, uids: List[int]):
+        """Performs exponential moving average on the scores based on the rewards received from the miners."""
+
+        # Check if rewards contains NaN values.
+        if np.isnan(rewards).any():
+            bt.logging.warning(f"NaN values detected in rewards: {rewards}")
+            # Replace any NaN values in rewards with 0.
+            rewards = np.nan_to_num(rewards, nan=0)
+
+        # Ensure rewards is a numpy array.
+        rewards = np.asarray(rewards)
+
+        # Check if `uids` is already a numpy array and copy it to avoid the warning.
+        if isinstance(uids, np.ndarray):
+            uids_array = uids.copy()
+        else:
+            uids_array = np.array(uids)
+
+        # Handle edge case: If either rewards or uids_array is empty.
+        if rewards.size == 0 or uids_array.size == 0:
+            bt.logging.info(f"rewards: {rewards}, uids_array: {uids_array}")
+            bt.logging.warning(
+                "Either rewards or uids_array is empty. No updates will be performed."
+            )
+            return
+
+        # Check if sizes of rewards and uids_array match.
+        if rewards.size != uids_array.size:
+            raise ValueError(
+                f"Shape mismatch: rewards array of shape {rewards.shape} "
+                f"cannot be broadcast to uids array of shape {uids_array.shape}"
+            )
+
+        # Compute forward pass rewards, assumes uids are mutually exclusive.
+        # shape: [ metagraph.n ]
+        scattered_rewards: np.ndarray = np.zeros_like(self.scores)
+        scattered_rewards[uids_array] = rewards
+        bt.logging.debug(f"Scattered rewards: {rewards}")
+
+        # Update scores with rewards produced by this step.
+        # shape: [ metagraph.n ]
+        alpha: float = self.config.neuron.moving_average_alpha
+        self.scores: np.ndarray = (
+            alpha * scattered_rewards + (1 - alpha) * self.scores
+        )
+        bt.logging.debug(f"Updated moving avg scores: {self.scores}")
+
+    def save_state(self):
+        """Saves the state of the validator to a file."""
+        bt.logging.info("Saving validator state.")
+
+        # Save the state of the validator to file.
+        np.savez(
+            self.config.neuron.full_path + "/state.npz",
+            step=self.step,
+            scores=self.scores,
+            hotkeys=self.hotkeys,
+        )
+
+    def load_state(self):
+        """Loads the state of the validator from a file."""
+        bt.logging.info("Loading validator state.")
+
+        # Load the state of the validator from file.
+        state = np.load(self.config.neuron.full_path + "/state.npz")
+        self.step = state["step"]
+        self.scores = state["scores"]
+        self.hotkeys = state["hotkeys"]
+
+---------------------------------------------------------------------------
+template/base/__init__.py
+---------------------------------------------------------------------------
+
+---------------------------------------------------------------------------
+template/base/miner.py
+---------------------------------------------------------------------------
+# The MIT License (MIT)
+# Copyright © 2023 Yuma Rao
+
+# Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated
+# documentation files (the “Software”), to deal in the Software without restriction, including without limitation
+# the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software,
+# and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+# The above copyright notice and this permission notice shall be included in all copies or substantial portions of
+# the Software.
+
+# THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+# THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
+# THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+# OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+# DEALINGS IN THE SOFTWARE.
+
+import time
+import asyncio
+import threading
+import argparse
+import traceback
+
+import bittensor as bt
+
+from template.base.neuron import BaseNeuron
+from template.utils.config import add_miner_args
+
+from typing import Union
+
+
+class BaseMinerNeuron(BaseNeuron):
+    """
+    Base class for Bittensor miners.
+    """
+
+    neuron_type: str = "MinerNeuron"
+
+    @classmethod
+    def add_args(cls, parser: argparse.ArgumentParser):
+        super().add_args(parser)
+        add_miner_args(cls, parser)
+
+    def __init__(self, config=None):
+        super().__init__(config=config)
+
+        # Warn if allowing incoming requests from anyone.
+        if not self.config.blacklist.force_validator_permit:
+            bt.logging.warning(
+                "You are allowing non-validators to send requests to your miner. This is a security risk."
+            )
+        if self.config.blacklist.allow_non_registered:
+            bt.logging.warning(
+                "You are allowing non-registered entities to send requests to your miner. This is a security risk."
+            )
+        # The axon handles request processing, allowing validators to send this miner requests.
+        self.axon = bt.axon(
+            wallet=self.wallet,
+            config=self.config() if callable(self.config) else self.config,
+        )
+
+        # Attach determiners which functions are called when servicing a request.
+        bt.logging.info(f"Attaching forward function to miner axon.")
+        self.axon.attach(
+            forward_fn=self.forward,
+            blacklist_fn=self.blacklist,
+            priority_fn=self.priority,
+        )
+        bt.logging.info(f"Axon created: {self.axon}")
+
+        # Instantiate runners
+        self.should_exit: bool = False
+        self.is_running: bool = False
+        self.thread: Union[threading.Thread, None] = None
+        self.lock = asyncio.Lock()
+
+    def run(self):
+        """
+        Initiates and manages the main loop for the miner on the Bittensor network. The main loop handles graceful shutdown on keyboard interrupts and logs unforeseen errors.
+
+        This function performs the following primary tasks:
+        1. Check for registration on the Bittensor network.
+        2. Starts the miner's axon, making it active on the network.
+        3. Periodically resynchronizes with the chain; updating the metagraph with the latest network state and setting weights.
+
+        The miner continues its operations until `should_exit` is set to True or an external interruption occurs.
+        During each epoch of its operation, the miner waits for new blocks on the Bittensor network, updates its
+        knowledge of the network (metagraph), and sets its weights. This process ensures the miner remains active
+        and up-to-date with the network's latest state.
+
+        Note:
+            - The function leverages the global configurations set during the initialization of the miner.
+            - The miner's axon serves as its interface to the Bittensor network, handling incoming and outgoing requests.
+
+        Raises:
+            KeyboardInterrupt: If the miner is stopped by a manual interruption.
+            Exception: For unforeseen errors during the miner's operation, which are logged for diagnosis.
+        """
+
+        # Check that miner is registered on the network.
+        self.sync()
+
+        # Serve passes the axon information to the network + netuid we are hosting on.
+        # This will auto-update if the axon port of external ip have changed.
+        bt.logging.info(
+            f"Serving miner axon {self.axon} on network: {self.config.subtensor.chain_endpoint} with netuid: {self.config.netuid}"
+        )
+        self.axon.serve(netuid=self.config.netuid, subtensor=self.subtensor)
+
+        # Start  starts the miner's axon, making it active on the network.
+        self.axon.start()
+
+        bt.logging.info(f"Miner starting at block: {self.block}")
+
+        # This loop maintains the miner's operations until intentionally stopped.
+        try:
+            while not self.should_exit:
+                while (
+                    self.block - self.metagraph.last_update[self.uid]
+                    < self.config.neuron.epoch_length
+                ):
+                    # Wait before checking again.
+                    time.sleep(1)
+
+                    # Check if we should exit.
+                    if self.should_exit:
+                        break
+
+                # Sync metagraph and potentially set weights.
+                self.sync()
+                self.step += 1
+
+        # If someone intentionally stops the miner, it'll safely terminate operations.
+        except KeyboardInterrupt:
+            self.axon.stop()
+            bt.logging.success("Miner killed by keyboard interrupt.")
+            exit()
+
+        # In case of unforeseen errors, the miner will log the error and continue operations.
+        except Exception as e:
+            bt.logging.error(traceback.format_exc())
+
+    def run_in_background_thread(self):
+        """
+        Starts the miner's operations in a separate background thread.
+        This is useful for non-blocking operations.
+        """
+        if not self.is_running:
+            bt.logging.debug("Starting miner in background thread.")
+            self.should_exit = False
+            self.thread = threading.Thread(target=self.run, daemon=True)
+            self.thread.start()
+            self.is_running = True
+            bt.logging.debug("Started")
+
+    def stop_run_thread(self):
+        """
+        Stops the miner's operations that are running in the background thread.
+        """
+        if self.is_running:
+            bt.logging.debug("Stopping miner in background thread.")
+            self.should_exit = True
+            if self.thread is not None:
+                self.thread.join(5)
+            self.is_running = False
+            bt.logging.debug("Stopped")
+
+    def __enter__(self):
+        """
+        Starts the miner's operations in a background thread upon entering the context.
+        This method facilitates the use of the miner in a 'with' statement.
+        """
+        self.run_in_background_thread()
+        return self
+
+    def __exit__(self, exc_type, exc_value, traceback):
+        """
+        Stops the miner's background operations upon exiting the context.
+        This method facilitates the use of the miner in a 'with' statement.
+
+        Args:
+            exc_type: The type of the exception that caused the context to be exited.
+                      None if the context was exited without an exception.
+            exc_value: The instance of the exception that caused the context to be exited.
+                       None if the context was exited without an exception.
+            traceback: A traceback object encoding the stack trace.
+                       None if the context was exited without an exception.
+        """
+        self.stop_run_thread()
+
+    def resync_metagraph(self):
+        """Resyncs the metagraph and updates the hotkeys and moving averages based on the new metagraph."""
+        bt.logging.info("resync_metagraph()")
+
+        # Sync the metagraph.
+        self.metagraph.sync(subtensor=self.subtensor)
+
+---------------------------------------------------------------------------
+template/api/dummy.py
+---------------------------------------------------------------------------
+# The MIT License (MIT)
+# Copyright © 2021 Yuma Rao
+# Copyright © 2023 Opentensor Foundation
+# Copyright © 2023 Opentensor Technologies Inc
+
+# Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated
+# documentation files (the “Software”), to deal in the Software without restriction, including without limitation
+# the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software,
+# and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+# The above copyright notice and this permission notice shall be included in all copies or substantial portions of
+# the Software.
+
+# THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+# THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
+# THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+# OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+# DEALINGS IN THE SOFTWARE.
+
+import bittensor as bt
+from typing import List, Optional, Union, Any, Dict
+from template.protocol import Dummy
+from bittensor.subnets import SubnetsAPI
+
+
+class DummyAPI(SubnetsAPI):
+    def __init__(self, wallet: "bt.wallet"):
+        super().__init__(wallet)
+        self.netuid = 33
+        self.name = "dummy"
+
+    def prepare_synapse(self, dummy_input: int) -> Dummy:
+        synapse.dummy_input = dummy_input
+        return synapse
+
+    def process_responses(
+        self, responses: List[Union["bt.Synapse", Any]]
+    ) -> List[int]:
+        outputs = []
+        for response in responses:
+            if response.dendrite.status_code != 200:
+                continue
+            return outputs.append(response.dummy_output)
+        return outputs
+
+---------------------------------------------------------------------------
+template/api/__init__.py
+---------------------------------------------------------------------------
+
+---------------------------------------------------------------------------
+template/api/get_query_axons.py
+---------------------------------------------------------------------------
+# The MIT License (MIT)
+# Copyright © 2021 Yuma Rao
+# Copyright © 2023 Opentensor Foundation
+# Copyright © 2023 Opentensor Technologies Inc
+
+# Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated
+# documentation files (the “Software”), to deal in the Software without restriction, including without limitation
+# the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software,
+# and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+# The above copyright notice and this permission notice shall be included in all copies or substantial portions of
+# the Software.
+
+# THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+# THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
+# THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+# OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+# DEALINGS IN THE SOFTWARE.
+import numpy as np
+import random
+import bittensor as bt
+
+
+async def ping_uids(dendrite, metagraph, uids, timeout=3):
+    """
+    Pings a list of UIDs to check their availability on the Bittensor network.
+
+    Args:
+        dendrite (bittensor.dendrite): The dendrite instance to use for pinging nodes.
+        metagraph (bittensor.metagraph): The metagraph instance containing network information.
+        uids (list): A list of UIDs (unique identifiers) to ping.
+        timeout (int, optional): The timeout in seconds for each ping. Defaults to 3.
+
+    Returns:
+        tuple: A tuple containing two lists:
+            - The first list contains UIDs that were successfully pinged.
+            - The second list contains UIDs that failed to respond.
+    """
+    axons = [metagraph.axons[uid] for uid in uids]
+    try:
+        responses = await dendrite(
+            axons,
+            bt.Synapse(),  # TODO: potentially get the synapses available back?
+            deserialize=False,
+            timeout=timeout,
+        )
+        successful_uids = [
+            uid
+            for uid, response in zip(uids, responses)
+            if response.dendrite.status_code == 200
+        ]
+        failed_uids = [
+            uid
+            for uid, response in zip(uids, responses)
+            if response.dendrite.status_code != 200
+        ]
+    except Exception as e:
+        bt.logging.error(f"Dendrite ping failed: {e}")
+        successful_uids = []
+        failed_uids = uids
+    bt.logging.debug(f"ping() successful uids: {successful_uids}")
+    bt.logging.debug(f"ping() failed uids    : {failed_uids}")
+    return successful_uids, failed_uids
+
+
+async def get_query_api_nodes(dendrite, metagraph, n=0.1, timeout=3):
+    """
+    Fetches the available API nodes to query for the particular subnet.
+
+    Args:
+        wallet (bittensor.wallet): The wallet instance to use for querying nodes.
+        metagraph (bittensor.metagraph): The metagraph instance containing network information.
+        n (float, optional): The fraction of top nodes to consider based on stake. Defaults to 0.1.
+        timeout (int, optional): The timeout in seconds for pinging nodes. Defaults to 3.
+
+    Returns:
+        list: A list of UIDs representing the available API nodes.
+    """
+    bt.logging.debug(
+        f"Fetching available API nodes for subnet {metagraph.netuid}"
+    )
+    vtrust_uids = [
+        uid.item()
+        for uid in metagraph.uids
+        if metagraph.validator_trust[uid] > 0
+    ]
+    top_uids = np.where(metagraph.S > np.quantile(metagraph.S, 1 - n))[
+        0
+    ].tolist()
+    init_query_uids = set(top_uids).intersection(set(vtrust_uids))
+    query_uids, _ = await ping_uids(
+        dendrite, metagraph, list(init_query_uids), timeout=timeout
+    )
+    bt.logging.debug(
+        f"Available API node UIDs for subnet {metagraph.netuid}: {query_uids}"
+    )
+    if len(query_uids) > 3:
+        query_uids = random.sample(query_uids, 3)
+    return query_uids
+
+
+async def get_query_api_axons(
+    wallet, metagraph=None, n=0.1, timeout=3, uids=None
+):
+    """
+    Retrieves the axons of query API nodes based on their availability and stake.
+
+    Args:
+        wallet (bittensor.wallet): The wallet instance to use for querying nodes.
+        metagraph (bittensor.metagraph, optional): The metagraph instance containing network information.
+        n (float, optional): The fraction of top nodes to consider based on stake. Defaults to 0.1.
+        timeout (int, optional): The timeout in seconds for pinging nodes. Defaults to 3.
+        uids (Union[List[int], int], optional): The specific UID(s) of the API node(s) to query. Defaults to None.
+
+    Returns:
+        list: A list of axon objects for the available API nodes.
+    """
+    dendrite = bt.dendrite(wallet=wallet)
+
+    if metagraph is None:
+        metagraph = bt.metagraph(netuid=21)
+
+    if uids is not None:
+        query_uids = [uids] if isinstance(uids, int) else uids
+    else:
+        query_uids = await get_query_api_nodes(
+            dendrite, metagraph, n=n, timeout=timeout
+        )
+    return [metagraph.axons[uid] for uid in query_uids]
+
+---------------------------------------------------------------------------
+template/validator/__init__.py
+---------------------------------------------------------------------------
+from .forward import forward
+from .reward import reward
+
+---------------------------------------------------------------------------
+template/validator/forward.py
+---------------------------------------------------------------------------
+
+
+import time
+import bittensor as bt
+
+from template.protocol import Dummy
+from template.validator.reward import get_rewards
+from template.utils.uids import get_random_uids
+
+
+async def forward(self):
+    """
+    The forward function is called by the validator every time step.
+
+    It is responsible for querying the network and scoring the responses.
+
+    Args:
+        self (:obj:`bittensor.neuron.Neuron`): The neuron object which contains all the necessary state for the validator.
+
+    """
+    # TODO(developer): Define how the validator selects a miner to query, how often, etc.
+    # get_random_uids is an example method, but you can replace it with your own.
+    miner_uids = get_random_uids(self, k=self.config.neuron.sample_size)
+
+    # The dendrite client queries the network.
+    responses = await self.dendrite(
+        # Send the query to selected miner axons in the network.
+        axons=[self.metagraph.axons[uid] for uid in miner_uids],
+        # Construct a dummy query. This simply contains a single integer.
+        synapse=Dummy(dummy_input=self.step),
+        # All responses have the deserialize function called on them before returning.
+        # You are encouraged to define your own deserialization function.
+        deserialize=True,
+    )
+
+    # Log the results for monitoring purposes.
+    bt.logging.info(f"Received responses: {responses}")
+
+    # TODO(developer): Define how the validator scores responses.
+    # Adjust the scores based on responses from miners.
+    rewards = get_rewards(self, query=self.step, responses=responses)
+
+    bt.logging.info(f"Scored responses: {rewards}")
+    # Update the scores based on the rewards. You may want to define your own update_scores function for custom behavior.
+    self.update_scores(rewards, miner_uids)
+    time.sleep(5)
+
+---------------------------------------------------------------------------
+template/validator/reward.py
+---------------------------------------------------------------------------
+
+import numpy as np
+from typing import List
+import bittensor as bt
+
+
+def reward(query: int, response: int) -> float:
+    """
+    Reward the miner response to the dummy request. This method returns a reward
+    value for the miner, which is used to update the miner's score.
+
+    Returns:
+    - float: The reward value for the miner.
+    """
+    bt.logging.info(
+        f"In rewards, query val: {query}, response val: {response}, rewards val: {1.0 if response == query * 2 else 0}"
+    )
+    return 1.0 if response == query * 2 else 0
+
+
+def get_rewards(
+    self,
+    query: int,
+    responses: List[float],
+) -> np.ndarray:
+    """
+    Returns an array of rewards for the given query and responses.
+
+    Args:
+    - query (int): The query sent to the miner.
+    - responses (List[float]): A list of responses from the miner.
+
+    Returns:
+    - np.ndarray: An array of rewards for the given query and responses.
+    """
+    # Get all the reward results by iteratively calling your reward() function.
+
+    return np.array([reward(query, response) for response in responses])
+
+---------------------------------------------------------------------------
+template/utils/config.py
+---------------------------------------------------------------------------
+# The MIT License (MIT)
+# Copyright © 2023 Yuma Rao
+# Copyright © 2023 Opentensor Foundation
+
+# Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated
+# documentation files (the “Software”), to deal in the Software without restriction, including without limitation
+# the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software,
+# and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+# The above copyright notice and this permission notice shall be included in all copies or substantial portions of
+# the Software.
+
+# THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+# THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
+# THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+# OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+# DEALINGS IN THE SOFTWARE.
+
+import os
+import subprocess
+import argparse
+import bittensor as bt
+from .logging import setup_events_logger
+
+
+def is_cuda_available():
+    try:
+        output = subprocess.check_output(
+            ["nvidia-smi", "-L"], stderr=subprocess.STDOUT
+        )
+        if "NVIDIA" in output.decode("utf-8"):
+            return "cuda"
+    except Exception:
+        pass
+    try:
+        output = subprocess.check_output(["nvcc", "--version"]).decode("utf-8")
+        if "release" in output:
+            return "cuda"
+    except Exception:
+        pass
+    return "cpu"
+
+
+def check_config(cls, config: "bt.Config"):
+    r"""Checks/validates the config namespace object."""
+    bt.logging.check_config(config)
+
+    full_path = os.path.expanduser(
+        "{}/{}/{}/netuid{}/{}".format(
+            config.logging.logging_dir,  # TODO: change from ~/.bittensor/miners to ~/.bittensor/neurons
+            config.wallet.name,
+            config.wallet.hotkey,
+            config.netuid,
+            config.neuron.name,
+        )
+    )
+    print("full path:", full_path)
+    config.neuron.full_path = os.path.expanduser(full_path)
+    if not os.path.exists(config.neuron.full_path):
+        os.makedirs(config.neuron.full_path, exist_ok=True)
+
+    if not config.neuron.dont_save_events:
+        # Add custom event logger for the events.
+        events_logger = setup_events_logger(
+            config.neuron.full_path, config.neuron.events_retention_size
+        )
+        bt.logging.register_primary_logger(events_logger.name)
+
+
+def add_args(cls, parser):
+    """
+    Adds relevant arguments to the parser for operation.
+    """
+
+    parser.add_argument("--netuid", type=int, help="Subnet netuid", default=1)
+
+    parser.add_argument(
+        "--neuron.device",
+        type=str,
+        help="Device to run on.",
+        default=is_cuda_available(),
+    )
+
+    parser.add_argument(
+        "--neuron.epoch_length",
+        type=int,
+        help="The default epoch length (how often we set weights, measured in 12 second blocks).",
+        default=100,
+    )
+
+    parser.add_argument(
+        "--mock",
+        action="store_true",
+        help="Mock neuron and all network components.",
+        default=False,
+    )
+
+    parser.add_argument(
+        "--neuron.events_retention_size",
+        type=str,
+        help="Events retention size.",
+        default=2 * 1024 * 1024 * 1024,  # 2 GB
+    )
+
+    parser.add_argument(
+        "--neuron.dont_save_events",
+        action="store_true",
+        help="If set, we dont save events to a log file.",
+        default=False,
+    )
+
+    parser.add_argument(
+        "--wandb.off",
+        action="store_true",
+        help="Turn off wandb.",
+        default=False,
+    )
+
+    parser.add_argument(
+        "--wandb.offline",
+        action="store_true",
+        help="Runs wandb in offline mode.",
+        default=False,
+    )
+
+    parser.add_argument(
+        "--wandb.notes",
+        type=str,
+        help="Notes to add to the wandb run.",
+        default="",
+    )
+
+
+def add_miner_args(cls, parser):
+    """Add miner specific arguments to the parser."""
+
+    parser.add_argument(
+        "--neuron.name",
+        type=str,
+        help="Trials for this neuron go in neuron.root / (wallet_cold - wallet_hot) / neuron.name. ",
+        default="miner",
+    )
+
+    parser.add_argument(
+        "--blacklist.force_validator_permit",
+        action="store_true",
+        help="If set, we will force incoming requests to have a permit.",
+        default=False,
+    )
+
+    parser.add_argument(
+        "--blacklist.allow_non_registered",
+        action="store_true",
+        help="If set, miners will accept queries from non registered entities. (Dangerous!)",
+        default=False,
+    )
+
+    parser.add_argument(
+        "--wandb.project_name",
+        type=str,
+        default="template-miners",
+        help="Wandb project to log to.",
+    )
+
+    parser.add_argument(
+        "--wandb.entity",
+        type=str,
+        default="opentensor-dev",
+        help="Wandb entity to log to.",
+    )
+
+
+def add_validator_args(cls, parser):
+    """Add validator specific arguments to the parser."""
+
+    parser.add_argument(
+        "--neuron.name",
+        type=str,
+        help="Trials for this neuron go in neuron.root / (wallet_cold - wallet_hot) / neuron.name. ",
+        default="validator",
+    )
+
+    parser.add_argument(
+        "--neuron.timeout",
+        type=float,
+        help="The timeout for each forward call in seconds.",
+        default=10,
+    )
+
+    parser.add_argument(
+        "--neuron.num_concurrent_forwards",
+        type=int,
+        help="The number of concurrent forwards running at any time.",
+        default=1,
+    )
+
+    parser.add_argument(
+        "--neuron.sample_size",
+        type=int,
+        help="The number of miners to query in a single step.",
+        default=50,
+    )
+
+    parser.add_argument(
+        "--neuron.disable_set_weights",
+        action="store_true",
+        help="Disables setting weights.",
+        default=False,
+    )
+
+    parser.add_argument(
+        "--neuron.moving_average_alpha",
+        type=float,
+        help="Moving average alpha parameter, how much to add of the new observation.",
+        default=0.1,
+    )
+
+    parser.add_argument(
+        "--neuron.axon_off",
+        "--axon_off",
+        action="store_true",
+        # Note: the validator needs to serve an Axon with their IP or they may
+        #   be blacklisted by the firewall of serving peers on the network.
+        help="Set this flag to not attempt to serve an Axon.",
+        default=False,
+    )
+
+    parser.add_argument(
+        "--neuron.vpermit_tao_limit",
+        type=int,
+        help="The maximum number of TAO allowed to query a validator with a vpermit.",
+        default=4096,
+    )
+
+    parser.add_argument(
+        "--wandb.project_name",
+        type=str,
+        help="The name of the project where you are sending the new run.",
+        default="template-validators",
+    )
+
+    parser.add_argument(
+        "--wandb.entity",
+        type=str,
+        help="The name of the project where you are sending the new run.",
+        default="opentensor-dev",
+    )
+
+
+def config(cls):
+    """
+    Returns the configuration object specific to this miner or validator after adding relevant arguments.
+    """
+    parser = argparse.ArgumentParser()
+    bt.wallet.add_args(parser)
+    bt.subtensor.add_args(parser)
+    bt.logging.add_args(parser)
+    bt.axon.add_args(parser)
+    cls.add_args(parser)
+    return bt.config(parser)
+
+---------------------------------------------------------------------------
+template/utils/uids.py
+---------------------------------------------------------------------------
+import random
+import bittensor as bt
+import numpy as np
+from typing import List
+
+
+def check_uid_availability(
+    metagraph: "bt.metagraph.Metagraph", uid: int, vpermit_tao_limit: int
+) -> bool:
+    """Check if uid is available. The UID should be available if it is serving and has less than vpermit_tao_limit stake
+    Args:
+        metagraph (:obj: bt.metagraph.Metagraph): Metagraph object
+        uid (int): uid to be checked
+        vpermit_tao_limit (int): Validator permit tao limit
+    Returns:
+        bool: True if uid is available, False otherwise
+    """
+    # Filter non serving axons.
+    if not metagraph.axons[uid].is_serving:
+        return False
+    # Filter validator permit > 1024 stake.
+    if metagraph.validator_permit[uid]:
+        if metagraph.S[uid] > vpermit_tao_limit:
+            return False
+    # Available otherwise.
+    return True
+
+
+def get_random_uids(self, k: int, exclude: List[int] = None) -> np.ndarray:
+    """Returns k available random uids from the metagraph.
+    Args:
+        k (int): Number of uids to return.
+        exclude (List[int]): List of uids to exclude from the random sampling.
+    Returns:
+        uids (np.ndarray): Randomly sampled available uids.
+    Notes:
+        If `k` is larger than the number of available `uids`, set `k` to the number of available `uids`.
+    """
+    candidate_uids = []
+    avail_uids = []
+
+    for uid in range(self.metagraph.n.item()):
+        uid_is_available = check_uid_availability(
+            self.metagraph, uid, self.config.neuron.vpermit_tao_limit
+        )
+        uid_is_not_excluded = exclude is None or uid not in exclude
+
+        if uid_is_available:
+            avail_uids.append(uid)
+            if uid_is_not_excluded:
+                candidate_uids.append(uid)
+    # If k is larger than the number of available uids, set k to the number of available uids.
+    k = min(k, len(avail_uids))
+    # Check if candidate_uids contain enough for querying, if not grab all avaliable uids
+    available_uids = candidate_uids
+    if len(candidate_uids) < k:
+        available_uids += random.sample(
+            [uid for uid in avail_uids if uid not in candidate_uids],
+            k - len(candidate_uids),
+        )
+    uids = np.array(random.sample(available_uids, k))
+    return uids
+
+---------------------------------------------------------------------------
+template/utils/__init__.py
+---------------------------------------------------------------------------
+from . import config
+from . import misc
+from . import uids
+
+---------------------------------------------------------------------------
+template/utils/logging.py
+---------------------------------------------------------------------------
+import os
+import logging
+from logging.handlers import RotatingFileHandler
+
+EVENTS_LEVEL_NUM = 38
+DEFAULT_LOG_BACKUP_COUNT = 10
+
+
+def setup_events_logger(full_path, events_retention_size):
+    logging.addLevelName(EVENTS_LEVEL_NUM, "EVENT")
+
+    logger = logging.getLogger("event")
+    logger.setLevel(EVENTS_LEVEL_NUM)
+
+    def event(self, message, *args, **kws):
+        if self.isEnabledFor(EVENTS_LEVEL_NUM):
+            self._log(EVENTS_LEVEL_NUM, message, args, **kws)
+
+    logging.Logger.event = event
+
+    formatter = logging.Formatter(
+        "%(asctime)s | %(levelname)s | %(message)s",
+        datefmt="%Y-%m-%d %H:%M:%S",
+    )
+
+    file_handler = RotatingFileHandler(
+        os.path.join(full_path, "events.log"),
+        maxBytes=events_retention_size,
+        backupCount=DEFAULT_LOG_BACKUP_COUNT,
+    )
+    file_handler.setFormatter(formatter)
+    file_handler.setLevel(EVENTS_LEVEL_NUM)
+    logger.addHandler(file_handler)
+
+    return logger
+
+---------------------------------------------------------------------------
+template/utils/misc.py
+---------------------------------------------------------------------------
+# The MIT License (MIT)
+# Copyright © 2023 Yuma Rao
+# Copyright © 2023 Opentensor Foundation
+
+# Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated
+# documentation files (the “Software”), to deal in the Software without restriction, including without limitation
+# the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software,
+# and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+# The above copyright notice and this permission notice shall be included in all copies or substantial portions of
+# the Software.
+
+# THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+# THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
+# THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+# OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+# DEALINGS IN THE SOFTWARE.
+
+import time
+import math
+import datetime
+import random
+import hashlib as rpccheckhealth
+from math import floor
+from typing import Callable, Any
+from functools import lru_cache, update_wrapper
+
+
+# LRU Cache with TTL
+def ttl_cache(maxsize: int = 128, typed: bool = False, ttl: int = -1):
+    """
+    Decorator that creates a cache of the most recently used function calls with a time-to-live (TTL) feature.
+    The cache evicts the least recently used entries if the cache exceeds the `maxsize` or if an entry has
+    been in the cache longer than the `ttl` period.
+
+    Args:
+        maxsize (int): Maximum size of the cache. Once the cache grows to this size, subsequent entries
+                       replace the least recently used ones. Defaults to 128.
+        typed (bool): If set to True, arguments of different types will be cached separately. For example,
+                      f(3) and f(3.0) will be treated as distinct calls with distinct results. Defaults to False.
+        ttl (int): The time-to-live for each cache entry, measured in seconds. If set to a non-positive value,
+                   the TTL is set to a very large number, effectively making the cache entries permanent. Defaults to -1.
+
+    Returns:
+        Callable: A decorator that can be applied to functions to cache their return values.
+
+    The decorator is useful for caching results of functions that are expensive to compute and are called
+    with the same arguments frequently within short periods of time. The TTL feature helps in ensuring
+    that the cached values are not stale.
+
+    Example:
+        @ttl_cache(ttl=10)
+        def get_data(param):
+            # Expensive data retrieval operation
+            return data
+    """
+    if ttl <= 0:
+        ttl = 65536
+    hash_gen = _ttl_hash_gen(ttl)
+
+    def wrapper(func: Callable) -> Callable:
+        @lru_cache(maxsize, typed)
+        def ttl_func(ttl_hash, *args, **kwargs):
+            return func(*args, **kwargs)
+
+        def wrapped(*args, **kwargs) -> Any:
+            th = next(hash_gen)
+            return ttl_func(th, *args, **kwargs)
+
+        return update_wrapper(wrapped, func)
+
+    return wrapper
+
+
+def _ttl_hash_gen(seconds: int):
+    """
+    Internal generator function used by the `ttl_cache` decorator to generate a new hash value at regular
+    time intervals specified by `seconds`.
+
+    Args:
+        seconds (int): The number of seconds after which a new hash value will be generated.
+
+    Yields:
+        int: A hash value that represents the current time interval.
+
+    This generator is used to create time-based hash values that enable the `ttl_cache` to determine
+    whether cached entries are still valid or if they have expired and should be recalculated.
+    """
+    start_time = time.time()
+    while True:
+        yield floor((time.time() - start_time) / seconds)
+
+
+# 12 seconds updating block.
+@ttl_cache(maxsize=1, ttl=12)
+def ttl_get_block(self) -> int:
+    """
+    Retrieves the current block number from the blockchain. This method is cached with a time-to-live (TTL)
+    of 12 seconds, meaning that it will only refresh the block number from the blockchain at most every 12 seconds,
+    reducing the number of calls to the underlying blockchain interface.
+
+    Returns:
+        int: The current block number on the blockchain.
+
+    This method is useful for applications that need to access the current block number frequently and can
+    tolerate a delay of up to 12 seconds for the latest information. By using a cache with TTL, the method
+    efficiently reduces the workload on the blockchain interface.
+
+    Example:
+        current_block = ttl_get_block(self)
+
+    Note: self here is the miner or validator instance
+    """
+    return self.subtensor.get_current_block()
+
+
+
+def generate_random_date(days: int = 60, start_offset: int = 2) -> tuple[list[str], str]:
+    """
+    Generate a list of consecutive dates and return a random choice.
+
+    Args:
+        days (int): Number of days to generate.
+        start_offset (int): Days to offset from today for the start date.
+
+    Returns:
+        date_list (list[str]): List of dates in "yyyy-mm-dd" format.
+        random_date (str): One randomly selected date from the list.
+    """
+    start_date = datetime.date.today() + datetime.timedelta(days=start_offset)
+    date_list = [
+        (start_date + datetime.timedelta(days=i)).strftime("%Y-%m-%d")
+        for i in range(days)
+    ]
+    random_date = random.choice(date_list)
+    return date_list, random_date
+
+---------------------------------------------------------------------------
+template/base/utils/weight_utils.py
+---------------------------------------------------------------------------
+import numpy as np
+from typing import Tuple, List, Union, Any
+import bittensor
+from numpy import ndarray, dtype, floating, complexfloating
+
+U32_MAX = 4294967295
+U16_MAX = 65535
+
+
+def normalize_max_weight(x: np.ndarray, limit: float = 0.1) -> np.ndarray:
+    r"""Normalizes the numpy array x so that sum(x) = 1 and the max value is not greater than the limit.
+    Args:
+        x (:obj:`np.ndarray`):
+            Array to be max_value normalized.
+        limit: float:
+            Max value after normalization.
+    Returns:
+        y (:obj:`np.ndarray`):
+            Normalized x array.
+    """
+    epsilon = 1e-7  # For numerical stability after normalization
+
+    weights = x.copy()
+    values = np.sort(weights)
+
+    if x.sum() == 0 or len(x) * limit <= 1:
+        return np.ones_like(x) / x.size
+    else:
+        estimation = values / values.sum()
+
+        if estimation.max() <= limit:
+            return weights / weights.sum()
+
+        # Find the cumulative sum and sorted array
+        cumsum = np.cumsum(estimation, 0)
+
+        # Determine the index of cutoff
+        estimation_sum = np.array(
+            [(len(values) - i - 1) * estimation[i] for i in range(len(values))]
+        )
+        n_values = (
+            estimation / (estimation_sum + cumsum + epsilon) < limit
+        ).sum()
+
+        # Determine the cutoff based on the index
+        cutoff_scale = (limit * cumsum[n_values - 1] - epsilon) / (
+            1 - (limit * (len(estimation) - n_values))
+        )
+        cutoff = cutoff_scale * values.sum()
+
+        # Applying the cutoff
+        weights[weights > cutoff] = cutoff
+
+        y = weights / weights.sum()
+
+        return y
+
+
+def convert_weights_and_uids_for_emit(
+    uids: np.ndarray, weights: np.ndarray
+) -> Tuple[List[int], List[int]]:
+    r"""Converts weights into integer u32 representation that sum to MAX_INT_WEIGHT.
+    Args:
+        uids (:obj:`np.ndarray,`):
+            Array of uids as destinations for passed weights.
+        weights (:obj:`np.ndarray,`):
+            Array of weights.
+    Returns:
+        weight_uids (List[int]):
+            Uids as a list.
+        weight_vals (List[int]):
+            Weights as a list.
+    """
+    # Checks.
+    uids = np.asarray(uids)
+    weights = np.asarray(weights)
+
+    # Get non-zero weights and corresponding uids
+    non_zero_weights = weights[weights > 0]
+    non_zero_weight_uids = uids[weights > 0]
+
+    # Debugging information
+    bittensor.logging.debug(f"weights: {weights}")
+    bittensor.logging.debug(f"non_zero_weights: {non_zero_weights}")
+    bittensor.logging.debug(f"uids: {uids}")
+    bittensor.logging.debug(f"non_zero_weight_uids: {non_zero_weight_uids}")
+
+    if np.min(weights) < 0:
+        raise ValueError(
+            "Passed weight is negative cannot exist on chain {}".format(
+                weights
+            )
+        )
+    if np.min(uids) < 0:
+        raise ValueError(
+            "Passed uid is negative cannot exist on chain {}".format(uids)
+        )
+    if len(uids) != len(weights):
+        raise ValueError(
+            "Passed weights and uids must have the same length, got {} and {}".format(
+                len(uids), len(weights)
+            )
+        )
+    if np.sum(weights) == 0:
+        bittensor.logging.debug("nothing to set on chain")
+        return [], []  # Nothing to set on chain.
+    else:
+        max_weight = float(np.max(weights))
+        weights = [
+            float(value) / max_weight for value in weights
+        ]  # max-upscale values (max_weight = 1).
+        bittensor.logging.debug(
+            f"setting on chain max: {max_weight} and weights: {weights}"
+        )
+
+    weight_vals = []
+    weight_uids = []
+    for i, (weight_i, uid_i) in enumerate(list(zip(weights, uids))):
+        uint16_val = round(
+            float(weight_i) * int(U16_MAX)
+        )  # convert to int representation.
+
+        # Filter zeros
+        if uint16_val != 0:  # Filter zeros
+            weight_vals.append(uint16_val)
+            weight_uids.append(uid_i)
+    bittensor.logging.debug(f"final params: {weight_uids} : {weight_vals}")
+    return weight_uids, weight_vals
+
+
+def process_weights_for_netuid(
+    uids,
+    weights: np.ndarray,
+    netuid: int,
+    subtensor: "bittensor.subtensor",
+    metagraph: "bittensor.metagraph" = None,
+    exclude_quantile: int = 0,
+) -> Union[
+    tuple[
+        ndarray[Any, dtype[Any]],
+        Union[
+            Union[
+                ndarray[Any, dtype[floating[Any]]],
+                ndarray[Any, dtype[complexfloating[Any, Any]]],
+            ],
+            Any,
+        ],
+    ],
+    tuple[ndarray[Any, dtype[Any]], ndarray],
+    tuple[Any, ndarray],
+]:
+    bittensor.logging.debug("process_weights_for_netuid()")
+    bittensor.logging.debug("weights", weights)
+    bittensor.logging.debug("netuid", netuid)
+    bittensor.logging.debug("subtensor", subtensor)
+    bittensor.logging.debug("metagraph", metagraph)
+
+    # Get latest metagraph from chain if metagraph is None.
+    if metagraph is None:
+        metagraph = subtensor.metagraph(netuid)
+
+    # Cast weights to floats.
+    if not isinstance(weights, np.ndarray) or weights.dtype != np.float32:
+        weights = weights.astype(np.float32)
+
+    # Network configuration parameters from an subtensor.
+    # These parameters determine the range of acceptable weights for each neuron.
+    quantile = exclude_quantile / U16_MAX
+    min_allowed_weights = subtensor.min_allowed_weights(netuid=netuid)
+    max_weight_limit = subtensor.max_weight_limit(netuid=netuid)
+    bittensor.logging.debug("quantile", quantile)
+    bittensor.logging.debug("min_allowed_weights", min_allowed_weights)
+    bittensor.logging.debug("max_weight_limit", max_weight_limit)
+
+    # Find all non zero weights.
+    non_zero_weight_idx = np.argwhere(weights > 0).squeeze()
+    non_zero_weight_idx = np.atleast_1d(non_zero_weight_idx)
+    non_zero_weight_uids = uids[non_zero_weight_idx]
+    non_zero_weights = weights[non_zero_weight_idx]
+    if non_zero_weights.size == 0 or metagraph.n < min_allowed_weights:
+        bittensor.logging.warning("No non-zero weights returning all ones.")
+        final_weights = np.ones(metagraph.n) / metagraph.n
+        bittensor.logging.debug("final_weights", final_weights)
+        return np.arange(len(final_weights)), final_weights
+
+    elif non_zero_weights.size < min_allowed_weights:
+        bittensor.logging.warning(
+            "No non-zero weights less then min allowed weight, returning all ones."
+        )
+        weights = (
+            np.ones(metagraph.n) * 1e-5
+        )  # creating minimum even non-zero weights
+        weights[non_zero_weight_idx] += non_zero_weights
+        bittensor.logging.debug("final_weights", weights)
+        normalized_weights = normalize_max_weight(
+            x=weights, limit=max_weight_limit
+        )
+        return np.arange(len(normalized_weights)), normalized_weights
+
+    bittensor.logging.debug("non_zero_weights", non_zero_weights)
+
+    # Compute the exclude quantile and find the weights in the lowest quantile
+    max_exclude = max(0, len(non_zero_weights) - min_allowed_weights) / len(
+        non_zero_weights
+    )
+    exclude_quantile = min([quantile, max_exclude])
+    lowest_quantile = np.quantile(non_zero_weights, exclude_quantile)
+    bittensor.logging.debug("max_exclude", max_exclude)
+    bittensor.logging.debug("exclude_quantile", exclude_quantile)
+    bittensor.logging.debug("lowest_quantile", lowest_quantile)
+
+    # Exclude all weights below the allowed quantile.
+    non_zero_weight_uids = non_zero_weight_uids[
+        lowest_quantile <= non_zero_weights
+    ]
+    non_zero_weights = non_zero_weights[lowest_quantile <= non_zero_weights]
+    bittensor.logging.debug("non_zero_weight_uids", non_zero_weight_uids)
+    bittensor.logging.debug("non_zero_weights", non_zero_weights)
+
+    # Normalize weights and return.
+    normalized_weights = normalize_max_weight(
+        x=non_zero_weights, limit=max_weight_limit
+    )
+    bittensor.logging.debug("final_weights", normalized_weights)
+
+    return non_zero_weight_uids, normalized_weights
+
+---------------------------------------------------------------------------
+template/base/utils/__init__.py
+---------------------------------------------------------------------------
