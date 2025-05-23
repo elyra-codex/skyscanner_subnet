@@ -15,24 +15,25 @@ class FlightSearchRequest(bt.Synapse, BaseModel):
         ...,
         description="Departure date in YYYY-MM-DD format"
     )
-    origin: str = Field(
+    # airport IATA code
+    departure_airport_code: str = Field(
         ...,
-        description="Origin city or airport name"
+        description="Departure city or airport name"
     )
-    originId: str = Field(
-        ...,
-        description="Skyscanner SkyId for the origin airport"
-    )
-    destination: str = Field(
+    # originId: str = Field(
+    #     ...,
+    #     description="Skyscanner SkyId for the origin airport"
+    # )
+    arrival_airport_code: str = Field(
         ...,
         description="Destination city or airport name"
     )
-    destinationId: str = Field(
-        ...,
-        description="Skyscanner SkyId for the destination airport"
-    )
-    cabinClass: Optional[Literal['economy', 'premiumeconomy', 'business', 'first']] = Field(
-        default='economy',
+    # destinationId: str = Field(
+    #     ...,
+    #     description="Skyscanner SkyId for the destination airport"
+    # )
+    cabinClass: Optional[Literal["Economy", "Business", "First", "Premium_Economy"]] = Field(
+        default='Economy',
         description="Cabin class for the search"
     )
     adults: Optional[int] = Field(
@@ -50,17 +51,18 @@ class FlightSearchRequest(bt.Synapse, BaseModel):
         ge=0,
         description="Number of infant passengers"
     )
-    locale: Optional[str] = Field(
-        default='en-US',
-        description="Locale for displayed results"
-    )
+    # locale: Optional[str] = Field(
+    #     default='en-US',
+    #     description="Locale for displayed results"
+    # )
+    # region ISO code
     market: str = Field(
         default='US',
         description="Market/country code for pricing"
     )
     currency: Optional[str] = Field(
         default='USD',
-        description="Currency code for price values"
+        description="Currency code for price values (USD, INR, EUR)"
     )
 
 
@@ -81,10 +83,10 @@ class FlightSearchResponse(bt.Synapse, BaseModel):
         ...,
         description="Market/country code for pricing"
     )
-    category: Literal['Cheapest', 'Fastest', 'Best'] = Field(
-        ...,
-        description="Type of flight option"
-    )
+    # category: Literal['Cheapest', 'Fastest', 'Best'] = Field(
+    #     ...,
+    #     description="Type of flight option"
+    # )
     price: float = Field(
         ...,
         description="Total price amount"
@@ -116,9 +118,9 @@ class FlightSearchResponse(bt.Synapse, BaseModel):
     )
     carrier: str = Field(
         ...,
-        description="Airline carrier name"
+        description="Airline agent name"
     )
-    duration_days: float = Field(
+    duration_duration: float = Field(
         ...,
         gt=0,
         description="Total trip duration in days"
