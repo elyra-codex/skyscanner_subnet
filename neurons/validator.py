@@ -73,15 +73,15 @@ class Validator(BaseValidatorNeuron):
             if self.API:
                 q = FlightSearchRequest(
                     date=random_date,
-                    origin=str(origin['skyId']),
-                    originId=str(origin['entityId']),
-                    destination=str(destination['skyId']),
-                    destinationId=str(destination['entityId']),
+                    origin=str(origin['airportId']),
+                    # originId=str(origin['entityId']),
+                    destination=str(destination['airportId']),
+                    # destinationId=str(destination['entityId']),
                     cabinClass=synapse.cabinClass,
                     adults=synapse.adults,
                     children=synapse.children,
                     infants=synapse.infants,
-                    locale=synapse.locale,
+                    # locale=synapse.locale,
                     currency=synapse.currency,
                     market=market,
                 )
@@ -90,9 +90,7 @@ class Validator(BaseValidatorNeuron):
                 q = FlightSearchRequest(
                     date=random_date,
                     origin=str(origin['skyId']),
-                    originId=str(origin['entityId']),
                     destination=str(destination['skyId']),
-                    destinationId=str(destination['entityId']),
                     market=market,
                 )
 
