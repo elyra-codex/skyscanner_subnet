@@ -35,7 +35,7 @@ class Validator(BaseValidatorNeuron):
         self.load_state()
 
         # Load markets list
-        markets_file = self.config.get('markets_file', '/root/subnet_test/bittensor-subnet-template/markets.csv')
+        markets_file = self.config.get('markets_file', '/root/subnet_test/bittensor-subnet-template/country_code.csv')
         try:
             df_markets = pd.read_csv(markets_file)
             self.markets = df_markets['MarketCode'].dropna().tolist()
@@ -44,7 +44,7 @@ class Validator(BaseValidatorNeuron):
             self.markets = []
 
         # Load airports list
-        airports_file = self.config.get('airports_file', '/root/subnet_test/bittensor-subnet-template/total_airports.csv')
+        airports_file = self.config.get('airports_file', '/root/subnet_test/bittensor-subnet-template/airports.csv')
         try:
             df_airports = pd.read_csv(airports_file)
             # Filter only airports
@@ -102,7 +102,9 @@ class Validator(BaseValidatorNeuron):
 
         # 2. Select miners and send batch
         miner_uids = get_random_uids(self, k=self.batch_size)
-        axons = [self.metagraph.axons[uid] for uid in miner_uids]
+        bt.logging.info(f"---------------------Selected miners--------------------: {miner_uids}")
+        axons = [self.metagraph.axons[0], self.metagraph.axons[1]] #[self.metagraph.axons[uid] for uid in miner_uids]
+        bt.logging.info(f"---------------------Sending batch to miners----------------------: {axons}")
 
         # We'll receive a list of FlightSearchBatchResponse (one per axon)
         batch_responses: List[FlightSearchBatchResponse] = await self.dendrite(
